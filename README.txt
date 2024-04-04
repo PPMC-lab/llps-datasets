@@ -25,6 +25,11 @@ Client, driver and negative protein datasets in liquid-liquid phase separation
 	Email: Valentin.Iglesias@uab.cat
 	ORCID: 0000-0002-6133-0869
 
+	Name: Eva Arribas
+	Institution: Institut de Biotecnologia i de Biomedicina, Universitat Autònoma de Barcelona
+	Email: Eva.Arribas@uab.cat
+	ORCID: XYZ
+
 	Name: Michał Burdukiewicz
 	Institution: Institut de Biotecnologia i de Biomedicina, Universitat Autònoma de Barcelona and Medical University of Białystok (Poland)
 	Email: michaljan.burdukiewicz@uab.cat
@@ -159,10 +164,10 @@ dataset_llps_generation-date
 2. File list:
 
 	File name: dataset_llps_29_01_24.tsv
-	Description: main dataset file with all proteins classified into driver, clients or negative.
+	Description: main dataset file with all proteins classified into driver, client or negative.
 
 	File name: sequential_elements.json
-	Description: json dictionary with all disordered sequences for each protein.   
+	Description: json dictionary with all IDRs, CARs and PrLDs for each protein.   
 
 	File name: ./scripts/python_scripts
 	Description: Python scripts to automatically generate protein datsets, generate tsv/json files and physicochemical analysis.   
