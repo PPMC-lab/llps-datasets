@@ -1,4 +1,4 @@
-This file has been created on 05-02-2024 by Carlos Pintado-Grima.
+This file has been created on 05-02-2024 by Carlos Pintado-Grima and last modified on 04-04-2024
  
 
 GENERAL INFORMATION
@@ -100,7 +100,7 @@ VERSIONING AND PROVENANCE
 ---------------
 
 1. Last modification date:
-29-01-2024
+04-04-2024
 
 
 2. Were data derived from another source?:
@@ -149,8 +149,8 @@ FILE OVERVIEW
 ----------------------
 
 dataset_llps_29_01_24.tsv
-disordered_elements.json
-generate_datasets.py
+sequential_elements.json
+./scripts/python_scripts
 
 1. Explain the file naming conversion, if applicable:
 dataset_llps_generation-date
@@ -161,16 +161,16 @@ dataset_llps_generation-date
 	File name: dataset_llps_29_01_24.tsv
 	Description: main dataset file with all proteins classified into driver, clients or negative.
 
-	File name: disordered_elements.json
+	File name: sequential_elements.json
 	Description: json dictionary with all disordered sequences for each protein.   
 
-	File name: generate_datasets.py
-	Description: Python script to automatically generate protein datsets.   
+	File name: ./scripts/python_scripts
+	Description: Python scripts to automatically generate protein datsets, generate tsv/json files and physicochemical analysis.   
 
 
 
 3. Relationship between files:
-The json file collects subsequences of the annotated proteins from the main csv file. The python script is the code to generate independent datasets later gathered in the csv.
+The json file collects subsequences of the annotated proteins from the main tsv file. The python scripts are code to generate independent files.
 
 
 4. File format:
@@ -178,7 +178,7 @@ The json file collects subsequences of the annotated proteins from the main csv 
 
 
 5. If the dataset includes multiple files, specify the directory structure and relationships between the files:
-All in main directory.  
+All in main directory. Python scripts in ./scripts folder.
 
 
 
@@ -225,7 +225,7 @@ NA
 SPECIFIC INFORMATION FOR JSON DATA
 -------------------------------------------
 1. Name file:
-disordered_elements.json
+sequential_elements.json
 
 
 2. Number of keys:
@@ -247,7 +247,7 @@ disordered_elements.json
 
 
 4. Codes or symbols for missing data:
-"No IDRs", empty lists
+Empy lists
 
         
 5. Special formats or abbreviations used:
