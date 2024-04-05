@@ -1,4 +1,4 @@
-This file has been created on 05-02-2024 by Carlos Pintado-Grima and last modified on 04-04-2024
+This file has been created on 05-02-2024 by Carlos Pintado-Grima and last modified on 05-04-2024
  
 
 GENERAL INFORMATION
@@ -105,7 +105,7 @@ VERSIONING AND PROVENANCE
 ---------------
 
 1. Last modification date:
-04-04-2024
+05-04-2024
 
 
 2. Were data derived from another source?:
@@ -156,6 +156,7 @@ FILE OVERVIEW
 dataset_llps_29_01_24.tsv
 sequential_elements.json
 ./scripts/python_scripts
+./figures/pngs
 
 1. Explain the file naming conversion, if applicable:
 dataset_llps_generation-date
@@ -170,7 +171,10 @@ dataset_llps_generation-date
 	Description: json dictionary with all IDRs, CARs and PrLDs for each protein.   
 
 	File name: ./scripts/python_scripts
-	Description: Python scripts to automatically generate protein datsets, generate tsv/json files and physicochemical analysis.   
+	Description: Python scripts to automatically generate protein datsets, generate tsv/json files and physicochemical analysis.
+
+	File name: ./figures/pngs
+	Description: Figures generated for the manuscript.   
 
 
 
@@ -183,7 +187,7 @@ The json file collects subsequences of the annotated proteins from the main tsv 
 
 
 5. If the dataset includes multiple files, specify the directory structure and relationships between the files:
-All in main directory. Python scripts in ./scripts folder.
+All in main directory. Python scripts in ./scripts folder. Figures in ./figures.
 
 
 
