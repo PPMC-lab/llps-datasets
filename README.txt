@@ -1,11 +1,11 @@
-This file has been created on 05-02-2024 by Carlos Pintado-Grima and last modified on 05-04-2024
+This file has been created on 05-02-2024 by Carlos Pintado-Grima and last modified on 09-04-2024
  
 
 GENERAL INFORMATION
 ------------------
 
 1. Dataset title:
-Client, driver and negative protein datasets in liquid-liquid phase separation
+Confident datasets of client, driver and negative proteins in liquid-liquid phase separation
 
 
 2. Authorship:
@@ -25,7 +25,7 @@ Client, driver and negative protein datasets in liquid-liquid phase separation
 	Email: Valentin.Iglesias@uab.cat
 	ORCID: 0000-0002-6133-0869
 
-	Name: Eva Arribas
+	Name: Eva Arribas-Ruiz
 	Institution: Institut de Biotecnologia i de Biomedicina, Universitat Autònoma de Barcelona
 	Email: Eva.Arribas@uab.cat
 	ORCID: XYZ
@@ -94,7 +94,7 @@ NA
 
 
 3. Related publication:
-Not applicable
+Submitted
 
 4. Link to related datasets:
 Not applicable
@@ -105,7 +105,7 @@ VERSIONING AND PROVENANCE
 ---------------
 
 1. Last modification date:
-05-04-2024
+09-04-2024
 
 
 2. Were data derived from another source?:
@@ -142,7 +142,7 @@ Not applicable
 
 
 5. Environmental or experimental conditions:
-Not applicable.
+Not applicable
 
 
 6. Quality-assurance procedures performed on the data:
@@ -152,14 +152,18 @@ Rational data quality assessment and technical validation on data properties.
 
 FILE OVERVIEW
 ----------------------
-
+(main)
 dataset_llps_29_01_24.tsv
 sequential_elements.json
+README.txt
+
+(subdirectories)
 ./scripts/python_scripts
 ./figures/pngs
+./properties/.csv
 
 1. Explain the file naming conversion, if applicable:
-dataset_llps_generation-date
+dataset_llps_generation-date, for the main dataset file (tsv)
 
 
 2. File list:
@@ -176,6 +180,8 @@ dataset_llps_generation-date
 	File name: ./figures/pngs
 	Description: Figures generated for the manuscript.   
 
+	File name: ./properties/calculations_properties_datasets.csv
+	Description: propoerty calculation for all sequences.  
 
 
 3. Relationship between files:
@@ -187,7 +193,7 @@ The json file collects subsequences of the annotated proteins from the main tsv 
 
 
 5. If the dataset includes multiple files, specify the directory structure and relationships between the files:
-All in main directory. Python scripts in ./scripts folder. Figures in ./figures.
+Main files in main directory. Python scripts in ./scripts folder. Figures in ./figures. Property calculations in ./properties.
 
 
 
