@@ -262,7 +262,7 @@ sequential_elements.json
 
 
 4. Codes or symbols for missing data:
-Empy lists
+Empty lists
 
         
 5. Special formats or abbreviations used:
