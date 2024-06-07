@@ -105,7 +105,7 @@ VERSIONING AND PROVENANCE
 ---------------
 
 1. Last modification date:
-09-04-2024
+07-06-2024
 
 
 2. Were data derived from another source?:
@@ -172,7 +172,7 @@ dataset_llps_generation-date, for the main dataset file (tsv)
 	Description: main dataset file with all proteins classified into driver, client or negative.
 
 	File name: sequential_elements.json
-	Description: json dictionary with all IDRs, CARs and PrLDs for each protein.   
+	Description: json dictionary with all IDRs and PrLDs for each protein.   
 
 	File name: ./scripts/python_scripts
 	Description: Python scripts to automatically generate protein datsets, generate tsv/json files and physicochemical analysis.
@@ -252,14 +252,18 @@ sequential_elements.json
 	Description: list of intrinsically disordered regions' sequences obtained from MobiDB-AlphaFold
 	Units of measure or value labels: list of strings
 
-	Variable name: CARs
-	Description: list of cryptic amyloidogenic regions' sequences obtained from the Waltz algorithm at threshold 85
-	Units of measure or value labels: list of strings
 
 	Variable name: PrLDs
 	Description: list of prion-like domains' sequences obtained with the PLAAC algorithm
 	Units of measure or value labels: list of strings
 
+	Variable name: Full_seq
+	Description: full protein sequence
+	Units of measure or value labels: string
+
+	Variable name: Dataset
+	Description: protein's dataset
+	Units of measure or value labels: string
 
 4. Codes or symbols for missing data:
 Empty lists
