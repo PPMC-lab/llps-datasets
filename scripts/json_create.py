@@ -68,7 +68,7 @@ with open("datasets_info_3.tsv", "rt") as tsv: #Dataset tsv
 		d[uniprot]={}
 		write_fullseq(d, uniprot, line)
 		write_idrs(d, uniprot)
-		write_cars(d, uniprot)
+		#write_cars(d, uniprot)
 		write_prlds(d, uniprot)
 		write_dataset(d, uniprot, line) #CO, DO, C_D, DisProt, PDB
 
