@@ -68,8 +68,7 @@ plot_df <- cbind(all_cmbn_df, all_pvals) %>%
                                                  "[0,0.001]; 1 < 2", "(0.001,0.01]; 1 < 2", "(0.01,0.05]; 1 < 2", "(0.05,1]; 1 < 2")))
 
 
-png("properties-plot.png", width = 1210, height = 640, res = 110)
-ggplot(plot_df, aes(x = dataset1, y = dataset2, fill = level_signif)) +
+prop_plot <- ggplot(plot_df, aes(x = dataset1, y = dataset2, fill = level_signif)) +
   geom_tile(color = "black") +
   scale_fill_manual("Significance level", values = c(rev(c("#b2e2e2", "#66c2a4", "#238b45")), "#d7301f")) +
   scale_x_discrete("Dataset 1") +
@@ -77,7 +76,15 @@ ggplot(plot_df, aes(x = dataset1, y = dataset2, fill = level_signif)) +
   facet_grid(datatype ~ property, labeller = label_parsed) +
   theme_bw() +
   theme(legend.position = "bottom")
+
+jpeg("properties-plot-manuscript.jpeg", width = 1210, height = 640, res = 110)
+prop_plot
 dev.off()
+
+jpeg("properties-plot-hr.jpeg", width = 1210*3, height = 640*3, res = 330)
+prop_plot
+dev.off()
+
 
 tab_dat <- mutate(plot_df, datatype = factor(datatype, labels = c("Full sequence", "IDRs", "PrLDs")),
                   property = factor(property, labels = c("Y + R%", "kappa ss", "NCPR", "kappa", 
@@ -92,5 +99,6 @@ tab_dat <- mutate(plot_df, datatype = factor(datatype, labels = c("Full sequence
 
 
 filter(tab_dat, datatype == "Full sequence", ds %in% c("CE-ND", "DE-ND", "CE-DE")) %>% 
-  write.csv(tab_dat, file = "tmp.csv", row.names = FALSE)
+  select(-datatype) %>% 
+  write.csv(file = "table1.csv", row.names = FALSE)
 
