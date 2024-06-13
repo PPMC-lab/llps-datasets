@@ -2,7 +2,7 @@ library(ggplot2)
 library(dplyr)
 library(tidyr)
 
-dat <- read.csv("./properties/calculations_properties_datasets.csv", header = FALSE) %>% 
+dat <- read.csv("./properties/calculations_properties_datasets.csv", header = TRUE) %>% 
   setNames(c("id", "dataset", "datatype", "property", "value"))
 
 dataset_names <- unique(dat[["dataset"]])
@@ -85,8 +85,12 @@ tab_dat <- mutate(plot_df, datatype = factor(datatype, labels = c("Full sequence
                                                 "Disorder binding")),
                   ds = paste0(dataset1, "-", dataset2)) %>% 
   select(ds, datatype, property, apval) %>% 
+  mutate(apval = ifelse(apval < 0.01, "X", "")) %>% 
   pivot_wider(id_cols = c(ds, datatype), values_from = apval, names_from = property) %>% 
   select(ds, datatype, `Y + R%`, `kappa ss`, NCPR, kappa, `Aggregation propensity`, 
          `Cryptic amyloidogenicity`, `Disorder binding`)
-write.csv(tab_dat, file = "tmp.csv", row.names = FALSE)
+
+
+filter(tab_dat, datatype == "Full sequence", ds %in% c("CE-ND", "DE-ND", "CE-DE")) %>% 
+  write.csv(tab_dat, file = "tmp.csv", row.names = FALSE)
 
