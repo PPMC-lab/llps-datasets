@@ -8,7 +8,7 @@ This file has been created on 05-02-2024 by Carlos Pintado-Grima & and last modi
 
 ### 1. Dataset title
 
-Confident datasets of client, driver and negative proteins in liquid-liquid phase separation
+Confident protein datasets for liquid-liquid phase separation studies
 
 ### 2. Authorship
 
@@ -66,14 +66,21 @@ Not applicable
 
 ### 6. Grant information
 
+
 - Grant Agency: Spanish Ministry of Science and Innovation
-  - Grant Number: PID2019 – 105017RB-I00
+  - Grant Number: PID2019 – 105017RB-I00 to SV
+  - Grant Number: FPU22/03656 to OB
 
-- Grant Agency: European Union’s Horizon 2020 research and innovation programme
-  - Grant Number: GA 952334 (PhasAGE)
+- Grant Agency: AGAUR (Generalitat de Catalunya)
+  - Grant Number: 2021-SGR-00635 to SV
+  - Grant Number: 2023 FI_3 00018 to CPG 
 
-- Grant Agency: Secretariat of Universities and Research of the Catalan Government and the European Social Fund
-  - Grant Number: 2023 FI_3 00018
+- Grant Agency: Polish National Agency for Academic Exchange
+  - Grant Number: BPN/ULM/2023/1/00189/U/00001 to VI
+
+- Grant Agency: EU-Maria Zambrano to MB
+
+
 
 ### 7. Geographical location/s of data collection
 
@@ -97,7 +104,7 @@ Not applicable
 
 ### 1. Last modification date
 
-07-06-2024
+14-06-2024
 
 ### 2. Were data derived from another source?
 
@@ -277,4 +284,4 @@ Empty lists
 
 ## MORE INFORMATION
 
-The datasets here presented are still unbuplished but are aimed to be submitted to a scientific journal in the following weeks.
+The datasets here presented are still unbuplished. The work has been submitted to a scientific journal.
