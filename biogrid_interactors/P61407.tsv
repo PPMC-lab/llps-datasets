@@ -1,0 +1,9 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+2341886	211651	210510	229254	229157	-	-	Fancd2	Tdrd6	2410150O07Rik|AU015151|BB137857|FA-D2|FA4|FACD|FAD|FANCD	AB097085|Tdr2	Affinity Capture-MS	physical	Zhang T (2017)	28378742	10090	10090	High Throughput	-	-	-	-	-	BIOGRID
+2391750	67009	210510	211872	229157	-	-	Ttc23	Tdrd6	1600012K10Rik	AB097085|Tdr2	Affinity Capture-MS	physical	Breslow DK (2018)	29459677	10090	10090	High Throughput	-	-	-	-	-	BIOGRID
+2391982	72016	210510	215094	229157	-	-	1600002H07Rik	Tdrd6	-	AB097085|Tdr2	Affinity Capture-MS	physical	Breslow DK (2018)	29459677	10090	10090	High Throughput	-	-	-	-	-	BIOGRID
+2683034	210510	80859	229157	219820	-	-	Tdrd6	Nfkbiz	AB097085|Tdr2	AA408868|INAP|Mail	Co-fractionation	physical	Pourhaghighi R (2020)	32325033	10090	10090	High Throughput	0.711	-	-	High confidence interactions had an EPIC Score >= 0.683	-	BIOGRID
+2687246	210510	83561	229157	219947	-	-	Tdrd6	Tdrd1	AB097085|Tdr2	MTR-1	Co-fractionation	physical	Pourhaghighi R (2020)	32325033	10090	10090	High Throughput	0.703	-	-	High confidence interactions had an EPIC Score >= 0.683	-	BIOGRID
+2687251	21750	210510	204117	229157	-	-	Terf2	Tdrd6	TRF2	AB097085|Tdr2	Co-fractionation	physical	Pourhaghighi R (2020)	32325033	10090	10090	High Throughput	0.971	-	-	High confidence interactions had an EPIC Score >= 0.683	-	BIOGRID
+3335196	15194	210510	200268	229157	-	-	Htt	Tdrd6	AI256365|C430023I11Rik|Hd|Hdh|IT15	AB097085|Tdr2	Affinity Capture-MS	physical	Shirasaki DI (2012)	22794259	10090	10090	High Throughput	-	-	-	-	-	BIOGRID
+

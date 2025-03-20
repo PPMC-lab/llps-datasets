@@ -1,0 +1,61 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+252354	8655	29495	114206	248135	-	-	DYNLL1	Dlg4	DLC1|DLC8|DNCL1|DNCLC1|LC8|LC8a|PIN|hdlc1	Dlgh4|PSD95|Sap90	Affinity Capture-MS	physical	Navarro-Lerida I (2004)	14760703	9606	10116	Low Throughput	-	-	-	-	-	BIOGRID
+275596	6812	29495	112681	248135	RP11-56D16.3	-	STXBP1	Dlg4	MUNC18-1|NSEC1|P67|RBSEC1|UNC18	Dlgh4|PSD95|Sap90	Two-hybrid	physical	Okamoto M (1997)	9395480	9606	10116	Low Throughput	-	-	-	-	-	BIOGRID
+304243	491	29495	106981	248135	-	-	ATP2B2	Dlg4	PMCA2|PMCA2a|PMCA2i	Dlgh4|PSD95|Sap90	Reconstituted Complex	physical	DeMarco SJ (2001)	11274188	9606	10116	Low Throughput	-	-	-	-	-	BIOGRID
+304246	493	29495	106983	248135	-	-	ATP2B4	Dlg4	ATP2B2|MXRA1|PMCA4|PMCA4b|PMCA4x	Dlgh4|PSD95|Sap90	Reconstituted Complex	physical	DeMarco SJ (2001)	11274188	9606	10116	Low Throughput	-	-	-	-	-	BIOGRID
+314625	29495	9495	248135	114874	-	-	Dlg4	AKAP5	Dlgh4|PSD95|Sap90	AKAP75|AKAP79|H21	Reconstituted Complex	physical	Colledge M (2000)	10939335	10116	9606	Low Throughput	-	-	-	-	-	BIOGRID
+314630	29495	9495	248135	114874	-	-	Dlg4	AKAP5	Dlgh4|PSD95|Sap90	AKAP75|AKAP79|H21	Affinity Capture-Western	physical	Colledge M (2000)	10939335	10116	9606	Low Throughput	-	-	-	-	-	BIOGRID
+314631	9495	29495	114874	248135	-	-	AKAP5	Dlg4	AKAP75|AKAP79|H21	Dlgh4|PSD95|Sap90	Affinity Capture-Western	physical	Colledge M (2000)	10939335	9606	10116	Low Throughput	-	-	-	-	-	BIOGRID
+644647	29495	50522	248135	248372	-	-	Dlg4	Ubc	Dlgh4|PSD95|Sap90	-	Affinity Capture-Western	physical	Colledge M (2003)	14642282	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+644648	29495	314856	248135	260847	-	-	Dlg4	Mdm2	Dlgh4|PSD95|Sap90	-	Affinity Capture-Western	physical	Colledge M (2003)	14642282	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+644649	314856	29495	260847	248135	-	-	Mdm2	Dlg4	-	Dlgh4|PSD95|Sap90	Biochemical Activity	physical	Colledge M (2003)	14642282	10116	10116	Low Throughput	-	Ubiquitination	-	-	-	BIOGRID
+685369	29495	23024	248135	116664	-	-	Dlg4	PDZRN3	Dlgh4|PSD95|Sap90	LNX3|SEMACAP3|SEMCAP3	Two-hybrid	physical	Ko JA (2006)	17118964	10116	9606	Low Throughput	-	-	-	-	-	BIOGRID
+697094	5174	29495	111200	248135	-	-	PDZK1	Dlg4	CAP70|CLAMP|NHERF-3|NHERF3|PDZD1	Dlgh4|PSD95|Sap90	Two-hybrid	physical	Chen Y (2002)	12063253	9606	10116	Low Throughput	-	-	-	Data not shown	-	BIOGRID
+697122	24409	29495	246574	248135	-	-	Grin2a	Dlg4	GluN2A|NMDAR2A|NR2A	Dlgh4|PSD95|Sap90	Two-hybrid	physical	Niethammer M (1996)	8601796	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+697123	24410	29495	246575	248135	-	-	Grin2b	Dlg4	GluN2B	Dlgh4|PSD95|Sap90	Two-hybrid	physical	Niethammer M (1996)	8601796	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+810800	116647	29495	250532	248135	-	-	Nlgn1	Dlg4	-	Dlgh4|PSD95|Sap90	Two-hybrid	physical	Meyer G (2004)	15458844	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+810812	117096	29495	250669	248135	-	-	Nlgn2	Dlg4	-	Dlgh4|PSD95|Sap90	Two-hybrid	physical	Meyer G (2004)	15458844	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+810824	360652	29495	262102	248135	-	-	Sdk2	Dlg4	-	Dlgh4|PSD95|Sap90	Two-hybrid	physical	Meyer G (2004)	15458844	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+810834	306636	29495	258514	248135	-	-	Efnb2	Dlg4	-	Dlgh4|PSD95|Sap90	Two-hybrid	physical	Meyer G (2004)	15458844	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+829635	29495	192254	248135	251380	-	-	Dlg4	Grasp	Dlgh4|PSD95|Sap90	-	Affinity Capture-Western	physical	Kitano J (2003)	12586822	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+844871	311055	29495	259817	248135	-	-	Tanc1	Dlg4	Tanc	Dlgh4|PSD95|Sap90	Affinity Capture-Western	physical	Suzuki T (2005)	15673434	10116	10116	Low Throughput	-	-	-	figure 6.|figure 9.	-	BIOGRID
+852770	50522	29495	248372	248135	-	-	Ubc	Dlg4	-	Dlgh4|PSD95|Sap90	Affinity Capture-MS	physical	Na CH (2012)	22871113	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+1034190	29495	287876	248135	252365	-	-	Dlg4	Actg1	Dlgh4|PSD95|Sap90	Actg	Co-fractionation	physical	Chen Y (2002)	12063253	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+1034191	29495	246757	248135	251611	-	-	Dlg4	Klhl17	Dlgh4|PSD95|Sap90	-	Co-fractionation	physical	Chen Y (2002)	12063253	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2204682	25613	29495	247642	248135	-	-	Ptprz1	Dlg4	PTPzeta-A|PTPzeta-B|PTPzeta-S|Ptpz|RPTPbeta	Dlgh4|PSD95|Sap90	Affinity Capture-MS	physical	Fujikawa A (2007)	17646177	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2204686	25613	29495	247642	248135	-	-	Ptprz1	Dlg4	PTPzeta-A|PTPzeta-B|PTPzeta-S|Ptpz|RPTPbeta	Dlgh4|PSD95|Sap90	Affinity Capture-Western	physical	Fujikawa A (2007)	17646177	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2208552	29644	29495	248266	248135	-	-	Ptpn5	Dlg4	STEP	Dlgh4|PSD95|Sap90	Affinity Capture-Western	physical	Won S (2016)	27457929	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2333528	54257	29495	248480	248135	rCG_58533	-	Grik2	Dlg4	GluK2|GluR6	Dlgh4|PSD95|Sap90	Affinity Capture-Western	physical	Yu CZ (2009)	19449206	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2333530	29495	309168	248135	259295	-	-	Dlg4	Map3k11	Dlgh4|PSD95|Sap90	Mlk-3|Mlk3|RHOE	Affinity Capture-Western	physical	Yu CZ (2009)	19449206	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2333531	29495	54257	248135	248480	-	rCG_58533	Dlg4	Grik2	Dlgh4|PSD95|Sap90	GluK2|GluR6	Affinity Capture-Western	physical	Yu CZ (2009)	19449206	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2333533	309168	29495	259295	248135	-	-	Map3k11	Dlg4	Mlk-3|Mlk3|RHOE	Dlgh4|PSD95|Sap90	Affinity Capture-Western	physical	Yu CZ (2009)	19449206	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2446589	54323	29495	248539	248135	-	-	Arc	Dlg4	rg3.1	Dlgh4|PSD95|Sap90	Affinity Capture-Western	physical	Nair RR (2017)	28553222	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2446591	29495	54323	248135	248539	-	-	Dlg4	Arc	Dlgh4|PSD95|Sap90	rg3.1	Affinity Capture-Western	physical	Nair RR (2017)	28553222	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2511951	290364	29495	253181	248135	-	-	Itm2b	Dlg4	Bri|imBRI2	Dlgh4|PSD95|Sap90	Affinity Capture-MS	physical	Martins F (2018)	29476059	10116	10116	High Throughput	-	-	-	-	-	BIOGRID
+2512299	290364	29495	253181	248135	-	-	Itm2b	Dlg4	Bri|imBRI2	Dlgh4|PSD95|Sap90	Affinity Capture-Western	physical	Martins F (2018)	29476059	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2512302	29495	290364	248135	253181	-	-	Dlg4	Itm2b	Dlgh4|PSD95|Sap90	Bri|imBRI2	Affinity Capture-Western	physical	Martins F (2018)	29476059	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2524354	29495	24408	248135	246573	-	-	Dlg4	Grin1	Dlgh4|PSD95|Sap90	GluN1|NMDAR1|NR1	Affinity Capture-Western	physical	Lei G (2002)	12065411	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2524355	29495	25167	248135	247230	-	-	Dlg4	Ptpra	Dlgh4|PSD95|Sap90	LRP	Affinity Capture-Western	physical	Lei G (2002)	12065411	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2524356	25167	29495	247230	248135	-	-	Ptpra	Dlg4	LRP	Dlgh4|PSD95|Sap90	Affinity Capture-Western	physical	Lei G (2002)	12065411	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2524357	29495	25167	248135	247230	-	-	Dlg4	Ptpra	Dlgh4|PSD95|Sap90	LRP	Reconstituted Complex	physical	Lei G (2002)	12065411	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2634476	24411	29495	246576	248135	-	-	Grin2c	Dlg4	GluN2C|NR2C	Dlgh4|PSD95|Sap90	Two-hybrid	physical	Chen BS (2006)	16606616	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2659840	25669	29495	247698	248135	-	-	Cpe	Dlg4	CARBE|Cph	Dlgh4|PSD95|Sap90	Co-fractionation	physical	Oiso S (2009)	19166515	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2766200	24410	29495	246575	248135	-	-	Grin2b	Dlg4	GluN2B	Dlgh4|PSD95|Sap90	Affinity Capture-Western	physical	Al-Hallaq RA (2007)	17670980	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2766201	24409	29495	246574	248135	-	-	Grin2a	Dlg4	GluN2A|NMDAR2A|NR2A	Dlgh4|PSD95|Sap90	Affinity Capture-Western	physical	Al-Hallaq RA (2007)	17670980	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2782972	498704	29495	270014	248135	-	-	Prr7	Dlg4	-	Dlgh4|PSD95|Sap90	Co-fractionation	physical	Murata Y (2005)	15629447	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2782973	432763	29495	240804	248135	-	-	Prr7	Dlg4	XM_484263	Dlgh4|PSD95|Sap90	Affinity Capture-MS	physical	Murata Y (2005)	15629447	10090	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2782976	432763	29495	240804	248135	-	-	Prr7	Dlg4	XM_484263	Dlgh4|PSD95|Sap90	Reconstituted Complex	physical	Murata Y (2005)	15629447	10090	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2789698	25550	29495	247581	248135	-	-	Slc1a1	Dlg4	Eaac1|Eaat3|REAAC1	Dlgh4|PSD95|Sap90	Affinity Capture-Western	physical	Waxman EA (2007)	17459877	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2885751	116590	29495	250505	248135	-	-	Mapk1	Dlg4	Erk2	Dlgh4|PSD95|Sap90	Affinity Capture-MS	physical	McClatchy DB (2018)	30053369	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2890061	25265	29495	247305	248135	-	-	P2ry1	Dlg4	P2y|P2y1	Dlgh4|PSD95|Sap90	Affinity Capture-Western	physical	Siow NL (2010)	20847060	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2890063	24409	29495	246574	248135	-	-	Grin2a	Dlg4	GluN2A|NMDAR2A|NR2A	Dlgh4|PSD95|Sap90	Affinity Capture-Western	physical	Siow NL (2010)	20847060	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2890065	29495	24409	248135	246574	-	-	Dlg4	Grin2a	Dlgh4|PSD95|Sap90	GluN2A|NMDAR2A|NR2A	Affinity Capture-Western	physical	Siow NL (2010)	20847060	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2890066	29495	25265	248135	247305	-	-	Dlg4	P2ry1	Dlgh4|PSD95|Sap90	P2y|P2y1	Affinity Capture-Western	physical	Siow NL (2010)	20847060	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2890517	29495	24409	248135	246574	-	-	Dlg4	Grin2a	Dlgh4|PSD95|Sap90	GluN2A|NMDAR2A|NR2A	Affinity Capture-Western	physical	Stanic J (2017)	28823933	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+3724861	83805	29495	249840	248135	-	-	Src	Dlg4	-	Dlgh4|PSD95|Sap90	Affinity Capture-Western	physical	Guo W (2004)	15483135	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+3724864	78957	29495	249365	248135	-	-	Shank1	Dlg4	Shank1a|Spank1|Sstrip	Dlgh4|PSD95|Sap90	Affinity Capture-Western	physical	Guo W (2004)	15483135	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+3724869	29495	24409	248135	246574	-	-	Dlg4	Grin2a	Dlgh4|PSD95|Sap90	GluN2A|NMDAR2A|NR2A	Affinity Capture-Western	physical	Xu J (2008)	18678878	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+3724870	29495	83805	248135	249840	-	-	Dlg4	Src	Dlgh4|PSD95|Sap90	-	Affinity Capture-Western	physical	Xu J (2008)	18678878	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+3724871	24409	29495	246574	248135	-	-	Grin2a	Dlg4	GluN2A|NMDAR2A|NR2A	Dlgh4|PSD95|Sap90	Affinity Capture-Western	physical	Xu J (2008)	18678878	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+3724873	83805	29495	249840	248135	-	-	Src	Dlg4	-	Dlgh4|PSD95|Sap90	Affinity Capture-Western	physical	Xu J (2008)	18678878	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+

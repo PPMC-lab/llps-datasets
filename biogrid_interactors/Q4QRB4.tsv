@@ -1,0 +1,9 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+814122	25416	246118	247451	251505	-	-	Dpysl2	Tubb3	Crmp2|TOAD-64	-	Affinity Capture-MS	physical	Fukata Y (2002)	12134159	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+814124	246118	25416	251505	247451	-	-	Tubb3	Dpysl2	-	Crmp2|TOAD-64	Affinity Capture-MS	physical	Fukata Y (2002)	12134159	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+814138	246118	25416	251505	247451	-	-	Tubb3	Dpysl2	-	Crmp2|TOAD-64	Affinity Capture-Western	physical	Fukata Y (2002)	12134159	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+1510016	246310	246118	251587	251505	-	-	Arfgap1	Tubb3	Arf GAP1|Arf1gap	-	Affinity Capture-MS	physical	Bai M (2011)	21499258	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2512265	290364	246118	253181	251505	-	-	Itm2b	Tubb3	Bri|imBRI2	-	Affinity Capture-MS	physical	Martins F (2018)	29476059	10116	10116	High Throughput	-	-	-	-	-	BIOGRID
+2639281	29477	246118	248119	251505	rCG_32645	-	Mapt	Tubb3	Mtapt|RNPTAU|pTau	-	Reconstituted Complex	physical	Wischik CM (1996)	8855335	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+3472664	6622	246118	112506	251505	-	-	SNCA	Tubb3	NACP|PARK1|PARK4|PD1	-	Affinity Capture-MS	physical	van Diggelen F (2020)	31686426	9606	10116	High Throughput	-	-	-	-	-	BIOGRID
+

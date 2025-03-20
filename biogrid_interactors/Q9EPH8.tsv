@@ -1,0 +1,15 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+573929	6780	171350	112657	251195	RP3-470L14.2	-	STAU1	Pabpc1	PPP1R150|STAU	Pabp|Pabp1	Reconstituted Complex	physical	Brendel C (2004)	15303970	9606	10116	Low Throughput	-	-	-	-	-	BIOGRID
+797791	171350	315159	251195	260939	-	-	Pabpc1	Tob2	Pabp|Pabp1	-	Affinity Capture-Western	physical	Lim NS (2006)	16554297	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+852724	50522	171350	248372	251195	-	-	Ubc	Pabpc1	-	Pabp|Pabp1	Affinity Capture-MS	physical	Na CH (2012)	22871113	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2201421	114027	171350	250263	251195	-	-	Dao	Pabpc1	Dao1	Pabp|Pabp1	Affinity Capture-MS	physical	Popiolek M (2011)	21700703	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2512132	290364	171350	253181	251195	-	-	Itm2b	Pabpc1	Bri|imBRI2	Pabp|Pabp1	Affinity Capture-MS	physical	Martins F (2018)	29476059	10116	10116	High Throughput	-	-	-	-	-	BIOGRID
+2546790	65248	171350	249325	251195	-	-	Prkaa1	Pabpc1	AMPKalpha1	Pabp|Pabp1	Affinity Capture-MS	physical	Moon S (2014)	24625528	10116	10116	High Throughput	-	-	-	-	-	BIOGRID
+2623346	29715	171350	248332	251195	-	-	Slc8a1	Pabpc1	Ncx|Ncx1	Pabp|Pabp1	Affinity Capture-MS	physical	Lubelwana Hafver T (2017)	28755400	10116	10116	High Throughput	-	-	-	-	-	BIOGRID
+2623404	20541	171350	203320	251195	-	-	Slc8a1	Pabpc1	AI852629|AV344025|D930008O12Rik|Ncx1	Pabp|Pabp1	Reconstituted Complex	physical	Lubelwana Hafver T (2017)	28755400	10090	10116	High Throughput	-	-	-	-	-	BIOGRID
+2692247	29430	171350	248077	251195	-	-	Hap1	Pabpc1	HAP1-A|HAP1-B	Pabp|Pabp1	Affinity Capture-MS	physical	Mackenzie KD (2017)	28259758	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2885841	29414	171350	248064	251195	-	-	Akt3	Pabpc1	Pkbg	Pabp|Pabp1	Affinity Capture-MS	physical	McClatchy DB (2018)	30053369	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2932803	84427	171350	249963	251195	-	-	Grb7	Pabpc1	-	Pabp|Pabp1	Affinity Capture-MS	physical	Garcia-Palmero I (2020)	32360748	10116	10116	High Throughput	-	-	-	-	-	BIOGRID
+3016743	29477	171350	248119	251195	rCG_32645	-	Mapt	Pabpc1	Mtapt|RNPTAU|pTau	Pabp|Pabp1	Affinity Capture-MS	physical	Sinsky J (2020)	32357304	10116	10116	High Throughput	-	-	-	High confidence interaction	-	BIOGRID
+3587989	388591	171350	132764	251195	-	-	RNF207	Pabpc1	C1orf188	Pabp|Pabp1	Affinity Capture-MS	physical	Yuan L (2023)	35352799	9606	10116	High Throughput	-	-	-	-	-	BIOGRID
+

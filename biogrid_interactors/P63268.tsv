@@ -1,0 +1,5 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+818432	18810	11468	202243	197947	-	-	Plec	Actg2	AA591047|AU042537|EBS1|PCN|PLTN|Plec1	ACTA3|Act-4|Act4|SMGA	Reconstituted Complex	physical	Andrae K (1998)	9808630	10090	10090	Low Throughput	-	-	-	interaction modulated by PIP2	-	BIOGRID
+2610298	2641	11468	108911	197947	-	-	GCG	Actg2	GLP1|GLP2|GRPP	ACTA3|Act-4|Act4|SMGA	Affinity Capture-MS	physical	Asadi F (2019)	30713523	9606	10090	High Throughput	-	-	-	-	-	BIOGRID
+2747881	22724	11468	204677	197947	-	-	Zbtb7b	Actg2	Thpok|Zfp67|c-Krox	ACTA3|Act-4|Act4|SMGA	Affinity Capture-MS	physical	Srivastava A (2020)	32098917	10090	10090	High Throughput	-	-	-	-	-	BIOGRID
+

@@ -1,0 +1,4 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+957168	9515	288516	114892	252584	-	-	STXBP5L	Eif3b	LLGL4	Eif3s9	Affinity Capture-MS	physical	Bhatnagar S (2014)	25002582	9606	10116	High Throughput	-	-	-	-	-	BIOGRID
+2885766	116590	288516	250505	252584	-	-	Mapk1	Eif3b	Erk2	Eif3s9	Affinity Capture-MS	physical	McClatchy DB (2018)	30053369	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+

@@ -1,0 +1,44 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+249996	2541033	2542503	277548	278961	SPBC3B9.21	SPAC19A8.12	dcp1	dcp2	-	-	Affinity Capture-Western	physical	Sakuno T (2004)	15671491	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+250276	2541033	2542503	277548	278961	SPBC3B9.21	SPAC19A8.12	dcp1	dcp2	-	-	Two-hybrid	physical	She M (2006)	16341225	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+250277	2541033	2542503	277548	278961	SPBC3B9.21	SPAC19A8.12	dcp1	dcp2	-	-	Reconstituted Complex	physical	She M (2006)	16341225	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+264279	2541033	2542503	277548	278961	SPBC3B9.21	SPAC19A8.12	dcp1	dcp2	-	-	Co-crystal Structure	physical	She M (2008)	18280239	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+300505	2539087	2542503	275659	278961	SPCC1259.13	SPAC19A8.12	chk1	dcp2	rad27	-	Two-hybrid	physical	Kosoy A (2007)	17502373	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+816284	2542503	2541033	278961	277548	SPAC19A8.12	SPBC3B9.21	dcp2	dcp1	-	-	Co-localization	physical	Wang CY (2013)	23319050	284812	284812	Low Throughput	-	-	-	stress increases the co-localization in cytoplasmic P-bodies	-	BIOGRID
+816285	2542503	2540639	278961	277164	SPAC19A8.12	SPBC18E5.11c	dcp2	edc3	-	SPBC23G7.01c	Co-localization	physical	Wang CY (2013)	23319050	284812	284812	Low Throughput	-	-	-	stress increases the co-localization in cytoplasmic P-bodies	-	BIOGRID
+816286	2542503	2541216	278961	277730	SPAC19A8.12	SPBC776.09	dcp2	ste13	-	-	Co-localization	physical	Wang CY (2013)	23319050	284812	284812	Low Throughput	-	-	-	stress increases the co-localization in cytoplasmic P-bodies	-	BIOGRID
+816287	2542503	2542204	278961	278679	SPAC19A8.12	SPAC17A5.14	dcp2	exo2	-	-	Co-localization	physical	Wang CY (2013)	23319050	284812	284812	Low Throughput	-	-	-	stress increases the co-localization in cytoplasmic P-bodies	-	BIOGRID
+816288	2542503	2541033	278961	277548	SPAC19A8.12	SPBC3B9.21	dcp2	dcp1	-	-	Affinity Capture-MS	physical	Wang CY (2013)	23319050	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+816289	2542503	2543539	278961	279956	SPAC19A8.12	SPAC926.04c	dcp2	hsp90	-	git10|swo1	Affinity Capture-MS	physical	Wang CY (2013)	23319050	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+816290	2542503	2542204	278961	278679	SPAC19A8.12	SPAC17A5.14	dcp2	exo2	-	-	Affinity Capture-MS	physical	Wang CY (2013)	23319050	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+816291	2542503	5802967	278961	858105	SPAC19A8.12	SPAC20G4.08	dcp2	pdc1	-	SPAC20G4.08|SPAC4F10.01	Affinity Capture-MS	physical	Wang CY (2013)	23319050	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+816292	2542503	5802967	278961	858105	SPAC19A8.12	SPAC20G4.08	dcp2	pdc1	-	SPAC20G4.08|SPAC4F10.01	Co-localization	physical	Wang CY (2013)	23319050	284812	284812	Low Throughput	-	-	-	co-localization in P-bodies is increased by stress	-	BIOGRID
+816293	5802967	2542503	858105	278961	SPAC20G4.08	SPAC19A8.12	pdc1	dcp2	SPAC20G4.08|SPAC4F10.01	-	Affinity Capture-Western	physical	Wang CY (2013)	23319050	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+816298	5802967	2542503	858105	278961	SPAC20G4.08	SPAC19A8.12	pdc1	dcp2	SPAC20G4.08|SPAC4F10.01	-	Co-localization	physical	Wang CY (2013)	23319050	284812	284812	Low Throughput	-	-	-	protein co-localize in P-bodies	-	BIOGRID
+879763	2542503	2542204	278961	278679	SPAC19A8.12	SPAC17A5.14	dcp2	exo2	-	-	Affinity Capture-Western	physical	Wang CY (2013)	23319050	284812	284812	Low Throughput	-	-	-	-	-	POMBASE
+879764	2542503	5802967	278961	858105	SPAC19A8.12	SPAC20G4.08	dcp2	pdc1	-	SPAC20G4.08|SPAC4F10.01	Affinity Capture-Western	physical	Wang CY (2013)	23319050	284812	284812	Low Throughput	-	-	-	-	-	POMBASE
+879765	2542503	2541033	278961	277548	SPAC19A8.12	SPBC3B9.21	dcp2	dcp1	-	-	Affinity Capture-Western	physical	Wang CY (2013)	23319050	284812	284812	Low Throughput	-	-	-	-	-	POMBASE
+882499	2539733	2542503	276285	278961	SPBC16E9.12c	SPAC19A8.12	pab2	dcp2	-	-	Affinity Capture-MS	physical	Lemieux C (2009)	19336419	284812	284812	Low Throughput	-	-	-	-	-	POMBASE
+1026630	2542503	2540639	278961	277164	SPAC19A8.12	SPBC18E5.11c	dcp2	edc3	-	SPBC23G7.01c	Reconstituted Complex	physical	Fromm SA (2014)	24862735	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+1429205	3361532	2542503	280608	278961	SPAC1D4.11c	SPAC19A8.12	lkh1	dcp2	kic1	-	Biochemical Activity	physical	Lipp JJ (2015)	26167880	284812	284812	High Throughput	-	Phosphorylation	-	We labeled fission yeast extracts with N6-phenethyl-ATP-gammaS in the presence of either recombinant WT or analog-sensitive Lkh1. We then purified thiophosphorylated peptides and identified Lkh1 substrates as well as their phosphorylation sites by MS	-	BIOGRID
+1435617	2542958	2542503	279398	278961	SPAC12G12.09	SPAC19A8.12	SPAC12G12.09	dcp2	-	-	Two-hybrid	physical	Vo TV (2016)	26771498	284812	284812	High Throughput	-	-	-	-	-	BIOGRID
+1436014	2542503	2541735	278961	278229	SPAC19A8.12	SPAC7D4.04	dcp2	atg11	-	taf1|cvt9	Two-hybrid	physical	Vo TV (2016)	26771498	284812	284812	High Throughput	-	-	-	-	-	BIOGRID
+1436015	2542503	2543290	278961	279715	SPAC19A8.12	SPAC9E9.10c	dcp2	cbh1	-	cbh	Two-hybrid	physical	Vo TV (2016)	26771498	284812	284812	High Throughput	-	-	-	-	-	BIOGRID
+1436016	2542503	2540778	278961	277297	SPAC19A8.12	SPBC19G7.10c	dcp2	SPBC19G7.10c	-	-	Two-hybrid	physical	Vo TV (2016)	26771498	284812	284812	High Throughput	-	-	-	-	-	BIOGRID
+1436017	2542503	2541033	278961	277548	SPAC19A8.12	SPBC3B9.21	dcp2	dcp1	-	-	Two-hybrid	physical	Vo TV (2016)	26771498	284812	284812	High Throughput	-	-	-	-	-	BIOGRID
+1436018	2542503	2538816	278961	275397	SPAC19A8.12	SPCC1442.10c	dcp2	rpb3	-	-	Two-hybrid	physical	Vo TV (2016)	26771498	284812	284812	High Throughput	-	-	-	-	-	BIOGRID
+1436019	2542503	2539360	278961	275926	SPAC19A8.12	SPCC613.04c	dcp2	rng3	-	-	Two-hybrid	physical	Vo TV (2016)	26771498	284812	284812	High Throughput	-	-	-	-	-	BIOGRID
+1504157	2541033	2542503	277548	278961	SPBC3B9.21	SPAC19A8.12	dcp1	dcp2	-	-	Reconstituted Complex	physical	Fromm SA (2012)	22085934	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+1504159	2540639	2542503	277164	278961	SPBC18E5.11c	SPAC19A8.12	edc3	dcp2	SPBC23G7.01c	-	Co-crystal Structure	physical	Fromm SA (2012)	22085934	284812	284812	Low Throughput	-	-	-	NMR	-	BIOGRID
+1504161	2540639	2542503	277164	278961	SPBC18E5.11c	SPAC19A8.12	edc3	dcp2	SPBC23G7.01c	-	Reconstituted Complex	physical	Fromm SA (2012)	22085934	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+1504162	2540829	2542503	277347	278961	SPBC800.09	SPAC19A8.12	sum2	dcp2	-	-	Co-crystal Structure	physical	Fromm SA (2012)	22085934	284812	284812	Low Throughput	-	-	-	NMR	-	BIOGRID
+1504163	2542503	2541033	278961	277548	SPAC19A8.12	SPBC3B9.21	dcp2	dcp1	-	-	Co-localization	physical	Fromm SA (2012)	22085934	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+2332824	2541033	2542503	277548	278961	SPBC3B9.21	SPAC19A8.12	dcp1	dcp2	-	-	Co-crystal Structure	physical	Wurm JP (2016)	27354705	284812	284812	Low Throughput	-	-	-	NMR	-	BIOGRID
+2332826	2542503	2542536	278961	278993	SPAC19A8.12	SPAC18G6.09c	dcp2	SPAC18G6.09c	-	-	Co-crystal Structure	physical	Wurm JP (2016)	27354705	284812	284812	Low Throughput	-	-	-	NMR	-	BIOGRID
+2332827	2542503	2542536	278961	278993	SPAC19A8.12	SPAC18G6.09c	dcp2	SPAC18G6.09c	-	-	Reconstituted Complex	physical	Wurm JP (2016)	27354705	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+2518027	2541033	2542503	277548	278961	SPBC3B9.21	SPAC19A8.12	dcp1	dcp2	-	-	Co-crystal Structure	physical	Valkov E (2016)	27183195	284812	284812	Low Throughput	-	-	-	-	-	POMBASE
+2521662	55629	2542503	120768	278961	RP11-4M23.5	SPAC19A8.12	PNRC2	dcp2	-	-	Co-crystal Structure	physical	Mugridge JS (2016)	27694842	9606	284812	Low Throughput	-	-	-	-	-	BIOGRID
+2598325	2541033	2542503	277548	278961	SPBC3B9.21	SPAC19A8.12	dcp1	dcp2	-	-	Reconstituted Complex	physical	Schuetz S (2017)	28472520	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+2606365	2542503	2542536	278961	278993	SPAC19A8.12	SPAC18G6.09c	dcp2	SPAC18G6.09c	-	-	Reconstituted Complex	physical	Wurm JP (2017)	28533364	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+2606366	2542503	2541033	278961	277548	SPAC19A8.12	SPBC3B9.21	dcp2	dcp1	-	-	Reconstituted Complex	physical	Wurm JP (2017)	28533364	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+

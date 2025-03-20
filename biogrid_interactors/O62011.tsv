@@ -1,0 +1,41 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+819809	171888	172873	37365	38294	CELE_Y54E10A.9	CELE_B0379.3	vbh-1	mut-16	-	-	Two-hybrid	physical	Boxem M (2008)	18692475	6239	6239	High Throughput	-	-	-	Corrected dataset:  Erratum in Cell. 2012 Dec 21;151(7):1633.	-	BIOGRID
+2834173	172873	172523	38294	37965	CELE_B0379.3	CELE_F26A3.8	mut-16	rrf-1	-	-	Affinity Capture-Western	physical	Phillips CM (2014)	24684932	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2834204	172473	172873	37915	38294	CELE_F21C3.4	CELE_B0379.3	rde-2	mut-16	-	-	Two-hybrid	physical	Phillips CM (2014)	24684932	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2834206	178996	172873	44044	38294	CELE_Y38A10A.6	CELE_B0379.3	smut-1	mut-16	Y38A10A.6	-	Two-hybrid	physical	Phillips CM (2014)	24684932	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2834210	172873	173124	38294	38521	CELE_B0379.3	W02D9.3	mut-16	hmg-20	-	CELE_W02D9.3	Two-hybrid	physical	Phillips CM (2014)	24684932	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2834211	172873	177621	38294	42734	CELE_B0379.3	CELE_K07H8.10	mut-16	K07H8.10	-	-	Two-hybrid	physical	Phillips CM (2014)	24684932	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2834212	172873	187434	38294	52130	CELE_B0379.3	M04B2.3	mut-16	gfl-1	-	CELE_M04B2.3	Two-hybrid	physical	Phillips CM (2014)	24684932	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2834213	172873	176172	38294	41376	CELE_B0379.3	F10E9.8	mut-16	sas-4	-	CELE_F10E9.8|dcd-1	Two-hybrid	physical	Phillips CM (2014)	24684932	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2834214	172873	172524	38294	37966	CELE_B0379.3	F26A3.3	mut-16	ego-1	-	CELE_F26A3.3|ego-6	Two-hybrid	physical	Phillips CM (2014)	24684932	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2834215	172873	178602	38294	43674	CELE_B0379.3	R09A1.1	mut-16	ergo-1	-	CELE_R09A1.1|eri-8	Two-hybrid	physical	Phillips CM (2014)	24684932	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2834216	172873	179824	38294	44841	CELE_B0379.3	Y2H9A.1	mut-16	mes-4	-	CELE_Y2H9A.1	Two-hybrid	physical	Phillips CM (2014)	24684932	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2834217	172873	179049	38294	44094	CELE_B0379.3	ZK1055.1	mut-16	hcp-1	-	CELE_ZK1055.1	Two-hybrid	physical	Phillips CM (2014)	24684932	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2834218	172873	176084	38294	41292	CELE_B0379.3	CELE_ZK112.2	mut-16	ncl-1	-	-	Two-hybrid	physical	Phillips CM (2014)	24684932	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2834219	172873	172463	38294	37906	CELE_B0379.3	R06C7.1	mut-16	wago-1	-	CELE_R06C7.1	Two-hybrid	physical	Phillips CM (2014)	24684932	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2834220	172873	178996	38294	44044	CELE_B0379.3	CELE_Y38A10A.6	mut-16	smut-1	-	Y38A10A.6	Two-hybrid	physical	Phillips CM (2014)	24684932	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2834221	172463	172873	37906	38294	R06C7.1	CELE_B0379.3	wago-1	mut-16	CELE_R06C7.1	-	Two-hybrid	physical	Phillips CM (2014)	24684932	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2836516	172873	176347	38294	41542	CELE_B0379.3	ZK1098.8	mut-16	mut-7	-	CELE_ZK1098.8	Affinity Capture-Western	physical	Phillips CM (2012)	22713602	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2836517	172873	180000	38294	44996	CELE_B0379.3	CELE_T01C3.8	mut-16	mut-15	-	-	Affinity Capture-Western	physical	Phillips CM (2012)	22713602	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2836518	172873	178952	38294	44001	CELE_B0379.3	C14C11.6	mut-16	mut-14	-	CELE_C14C11.6	Affinity Capture-Western	physical	Phillips CM (2012)	22713602	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2837916	172873	187005	38294	51713	CELE_B0379.3	CELE_K04F10.6	mut-16	mut-2	-	-	Affinity Capture-Western	physical	Uebel CJ (2018)	30036386	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2837917	172873	172523	38294	37965	CELE_B0379.3	CELE_F26A3.8	mut-16	rrf-1	-	-	Affinity Capture-Western	physical	Uebel CJ (2018)	30036386	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2837918	172873	178952	38294	44001	CELE_B0379.3	C14C11.6	mut-16	mut-14	-	CELE_C14C11.6	Affinity Capture-MS	physical	Uebel CJ (2018)	30036386	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2837919	172873	178996	38294	44044	CELE_B0379.3	CELE_Y38A10A.6	mut-16	smut-1	-	Y38A10A.6	Affinity Capture-MS	physical	Uebel CJ (2018)	30036386	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2837920	172873	180000	38294	44996	CELE_B0379.3	CELE_T01C3.8	mut-16	mut-15	-	-	Affinity Capture-MS	physical	Uebel CJ (2018)	30036386	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2837921	172873	187005	38294	51713	CELE_B0379.3	CELE_K04F10.6	mut-16	mut-2	-	-	Affinity Capture-MS	physical	Uebel CJ (2018)	30036386	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2837922	172873	172546	38294	37986	CELE_B0379.3	D2005.5	mut-16	drh-3	-	CELE_D2005.5|ekl-3	Affinity Capture-MS	physical	Uebel CJ (2018)	30036386	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2837923	172873	178337	38294	43421	CELE_B0379.3	CELE_T23G4.3	mut-16	T23G4.3	-	-	Affinity Capture-MS	physical	Uebel CJ (2018)	30036386	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2837924	172873	177483	38294	42602	CELE_B0379.3	CELE_ZC477.5	mut-16	ZC477.5	-	-	Affinity Capture-MS	physical	Uebel CJ (2018)	30036386	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2837925	172873	172444	38294	37889	CELE_B0379.3	F22D6.6	mut-16	ekl-1	-	CELE_F22D6.6	Affinity Capture-MS	physical	Uebel CJ (2018)	30036386	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2837926	172873	172523	38294	37965	CELE_B0379.3	CELE_F26A3.8	mut-16	rrf-1	-	-	Affinity Capture-MS	physical	Uebel CJ (2018)	30036386	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2837927	172873	172473	38294	37915	CELE_B0379.3	CELE_F21C3.4	mut-16	rde-2	-	-	Affinity Capture-MS	physical	Uebel CJ (2018)	30036386	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2837928	172873	176347	38294	41542	CELE_B0379.3	ZK1098.8	mut-16	mut-7	-	CELE_ZK1098.8	Affinity Capture-MS	physical	Uebel CJ (2018)	30036386	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2837929	172873	173226	38294	38620	CELE_B0379.3	CELE_Y87G2A.7	mut-16	Y87G2A.7	-	-	Affinity Capture-MS	physical	Uebel CJ (2018)	30036386	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2863019	181261	172873	46173	38294	CELE_M79.1	CELE_B0379.3	abl-1	mut-16	-	-	Two-hybrid	physical	Xin X (2013)	23549480	6239	6239	High Throughput	-	-	-	-	-	WORMBASE
+2863538	171722	172873	37215	38294	CELE_Y92H12A.1	CELE_B0379.3	src-1	mut-16	-	-	Two-hybrid	physical	Xin X (2013)	23549480	6239	6239	High Throughput	-	-	-	-	-	WORMBASE
+3386825	180510	172873	45456	38294	F52D2.4	CELE_B0379.3	meg-3	mut-16	gei-12|CELE_F52D2.4	-	Affinity Capture-MS	physical	Cipriani PG (2021)	34223818	6239	6239	High Throughput	-0.137228754	-	-	High confidence interactions were identified using a measure that combined fold-change of prey abundance as well as the p-value of a Student's t-test for experimental versus control purifications. Hit proteins were identified according to their p-value from the t SAM statistic as previously described (Chen et al., 2016). The t SAM statistic of the enrichment is provided in the score column.	-	BIOGRID
+3704470	172873	172515	38294	37957	CELE_B0379.3	D2030.6	mut-16	prg-1	-	CELE_D2030.6	Co-localization	physical	Suen KM (2020)	32843637	6239	6239	Low Throughput	-	-	-	-	-	BIOGRID
+3704471	172873	171642	38294	37142	CELE_B0379.3	CELE_Y65B4BL.2	mut-16	deps-1	-	-	Co-localization	physical	Suen KM (2020)	32843637	6239	6239	Low Throughput	-	-	-	-	-	BIOGRID
+3704472	171642	172873	37142	38294	CELE_Y65B4BL.2	CELE_B0379.3	deps-1	mut-16	-	-	Co-localization	physical	Suen KM (2020)	32843637	6239	6239	Low Throughput	-	-	-	-	-	BIOGRID
+

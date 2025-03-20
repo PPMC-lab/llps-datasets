@@ -1,0 +1,218 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+279333	2625	4004	108895	110190	-	-	GATA3	LMO1	HDR|HDRS	RBTN1|RHOM1|TTG1	Affinity Capture-Western	physical	Ono Y (1998)	9819382	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+279334	2625	4005	108895	110191	-	-	GATA3	LMO2	HDR|HDRS	RBTN2|RBTNL1|RHOM2|TTG2	Affinity Capture-Western	physical	Ono Y (1998)	9819382	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+279335	2625	6886	108895	112749	-	-	GATA3	TAL1	HDR|HDRS	SCL|TCL5|bHLHa17|tal-1	Affinity Capture-Western	physical	Ono Y (1998)	9819382	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+314295	4004	2625	110190	108895	-	-	LMO1	GATA3	RBTN1|RHOM1|TTG1	HDR|HDRS	Reconstituted Complex	physical	Ono Y (1997)	9020185	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+427844	2625	648	108895	107116	-	RP11-573G6.1	GATA3	BMI1	HDR|HDRS	FLVI2/BMI1|PCGF4|RNF51	Affinity Capture-Western	physical	Hosokawa H (2006)	17114435	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+465401	2625	4193	108895	110358	-	-	GATA3	MDM2	HDR|HDRS	ACTFS|HDMX|hdm2	Affinity Capture-Western	physical	Yamashita M (2005)	15975924	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+468092	2625	8841	108895	114368	-	-	GATA3	HDAC3	HDR|HDRS	HD3|RPD3|RPD3-2	Affinity Capture-Western	physical	Chen GY (2006)	17075044	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+468093	2625	10014	108895	115331	-	-	GATA3	HDAC5	HDR|HDRS	HD5|NY-CO-9	Affinity Capture-Western	physical	Chen GY (2006)	17075044	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+468094	8841	2625	114368	108895	-	-	HDAC3	GATA3	HD3|RPD3|RPD3-2	HDR|HDRS	Affinity Capture-Western	physical	Chen GY (2006)	17075044	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+468095	10014	2625	115331	108895	-	-	HDAC5	GATA3	HD5|NY-CO-9	HDR|HDRS	Affinity Capture-Western	physical	Chen GY (2006)	17075044	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+468098	30009	2625	119027	108895	-	-	TBX21	GATA3	T-PET|T-bet|TBET|TBLYM	HDR|HDRS	Affinity Capture-Western	physical	Chen GY (2006)	17075044	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+468102	2625	30009	108895	119027	-	-	GATA3	TBX21	HDR|HDRS	T-PET|T-bet|TBET|TBLYM	Affinity Capture-Western	physical	Chen GY (2006)	17075044	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+468764	2625	5915	108895	111850	-	-	GATA3	RARB	HDR|HDRS	HAP|MCOPS12|NR1B2|RRB2	Two-hybrid	physical	Ravasi T (2010)	20211142	9606	9606	High Throughput	-	-	-	-	-	BIOGRID
+470906	2625	9759	108895	115106	-	-	GATA3	HDAC4	HDR|HDRS	AHO3|BDMR|HA6116|HD4|HDAC-4|HDAC-A|HDACA	Affinity Capture-Western	physical	Han S (2006)	16922677	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+505219	6667	2625	112550	108895	-	-	SP1	GATA3	-	HDR|HDRS	Affinity Capture-Western	physical	Hong SJ (2008)	18338249	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+505220	6667	2625	112550	108895	-	-	SP1	GATA3	-	HDR|HDRS	Reconstituted Complex	physical	Hong SJ (2008)	18338249	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+505221	29803	2625	118927	108895	-	-	REPIN1	GATA3	AP4|RIP60|ZNF464|Zfp464	HDR|HDRS	Reconstituted Complex	physical	Hong SJ (2008)	18338249	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+633119	2625	4602	108895	110687	-	RP1-32B1.1	GATA3	MYB	HDR|HDRS	Cmyb|c-myb|c-myb_CDS|efg	Affinity Capture-Western	physical	Kozuka T (2011)	22039304	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+830794	6688	2625	112566	108895	hCG_25181	-	SPI1	GATA3	OF|PU.1|SFPI1|SPI-1|SPI-A	HDR|HDRS	Reconstituted Complex	physical	Rekhtman N (1999)	10364157	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+835965	672	2625	107140	108895	-	-	BRCA1	GATA3	BRCAI|BRCC1|BROVCA1|FANCS|IRIS|PNCA4|PPP1R53|PSCP|RNF53	HDR|HDRS	Affinity Capture-Western	physical	Tkocz D (2012)	22120723	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+835966	2625	672	108895	107140	-	-	GATA3	BRCA1	HDR|HDRS	BRCAI|BRCC1|BROVCA1|FANCS|IRIS|PNCA4|PPP1R53|PSCP|RNF53	Affinity Capture-Western	physical	Tkocz D (2012)	22120723	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+859419	27005	2625	117950	108895	RP11-297K8.3	-	USP21	GATA3	USP16|USP23	HDR|HDRS	Affinity Capture-Western	physical	Zhang J (2013)	23395819	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+859420	2625	27005	108895	117950	-	RP11-297K8.3	GATA3	USP21	HDR|HDRS	USP16|USP23	Affinity Capture-Western	physical	Zhang J (2013)	23395819	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+859422	50943	2625	119170	108895	JM2	-	FOXP3	GATA3	AIID|DIETER|IPEX|PIDX|XPID	HDR|HDRS	Affinity Capture-Western	physical	Zhang J (2013)	23395819	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+1038471	2625	5684	108895	111657	-	-	GATA3	PSMA3	HDR|HDRS	HC8|PSC3	Two-hybrid	physical	Rolland T (2014)	25416956	9606	9606	High Throughput	-	-	-	-	-	BIOGRID
+1240250	1017	2625	107452	108895	-	-	CDK2	GATA3	CDKN2|p33(CDK2)	HDR|HDRS	Biochemical Activity	physical	Kitagawa K (2014)	24820417	9606	9606	Low Throughput	-	Phosphorylation	-	-	-	BIOGRID
+1240251	2625	55294	108895	120581	-	-	GATA3	FBXW7	HDR|HDRS	AGO|CDC4|FBW6|FBW7|FBX30|FBXO30|FBXW6|SEL-10|SEL10|hAgo|hCdc4	Reconstituted Complex	physical	Kitagawa K (2014)	24820417	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+1240252	2625	55294	108895	120581	-	-	GATA3	FBXW7	HDR|HDRS	AGO|CDC4|FBW6|FBW7|FBX30|FBXO30|FBXW6|SEL-10|SEL10|hAgo|hCdc4	Affinity Capture-Western	physical	Kitagawa K (2014)	24820417	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+1240253	1432	2625	107819	108895	RP1-179N16.5	-	MAPK14	GATA3	CSBP|CSBP1|CSBP2|CSPB1|EXIP|Mxi2|PRKM14|PRKM15|RK|SAPK2A|p38|p38ALPHA	HDR|HDRS	Biochemical Activity	physical	Kitagawa K (2014)	24820417	9606	9606	Low Throughput	-	Phosphorylation	-	-	-	BIOGRID
+2207169	88	2625	106603	108895	-	-	ACTN2	GATA3	CMD1AA	HDR|HDRS	Two-hybrid	physical	Sahni N (2015)	25910212	9606	9606	High Throughput	-	-	-	-	-	BIOGRID
+2208349	2625	7465	108895	113303	-	-	GATA3	WEE1	HDR|HDRS	WEE1A|WEE1hu	Negative Genetic	genetic	Shen JP (2017)	28319113	9606	9606	High Throughput	-	-	Growth abnormality|HeLa cell|viability	CRISPR GI screen|Cell Line: HeLa EFO:0001185|Experimental Setup: Timecourse|GIST: A-phenotypic negative genetic interaction|Library: Dual-guide CRISPRn library|Significance Threshold:FDR ~ 0.3	-	BIOGRID
+2376619	3169	2625	109411	108895	-	-	FOXA1	GATA3	HNF3A|TCF3A	HDR|HDRS	Affinity Capture-MS	physical	Jozwik KM (2016)	27926873	9606	9606	High Throughput	-	-	-	-	-	BIOGRID
+2467074	6934	2625	112795	108895	RP11-357H24.1	-	TCF7L2	GATA3	TCF-4|TCF4	HDR|HDRS	Co-localization	physical	Frietze S (2012)	22951069	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2467075	6934	2625	112795	108895	RP11-357H24.1	-	TCF7L2	GATA3	TCF-4|TCF4	HDR|HDRS	Affinity Capture-Western	physical	Frietze S (2012)	22951069	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2467076	2625	6934	108895	112795	-	RP11-357H24.1	GATA3	TCF7L2	HDR|HDRS	TCF-4|TCF4	Affinity Capture-Western	physical	Frietze S (2012)	22951069	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2491258	3091	2625	109338	108895	-	-	HIF1A	GATA3	HIF-1A|HIF-1alpha|HIF1|HIF1-ALPHA|MOP1|PASD8|bHLHe78	HDR|HDRS	Affinity Capture-Western	physical	Lin MC (2017)	28263977	9606	9606	Low Throughput	-	-	A-375 cell	-	-	BIOGRID
+2491259	3091	2625	109338	108895	-	-	HIF1A	GATA3	HIF-1A|HIF-1alpha|HIF1|HIF1-ALPHA|MOP1|PASD8|bHLHe78	HDR|HDRS	Reconstituted Complex	physical	Lin MC (2017)	28263977	9606	9606	Low Throughput	-	-	A-375 cell	-	-	BIOGRID
+2493802	6047	2625	111974	108895	RES4-26	-	RNF4	GATA3	SLX5|SNURF	HDR|HDRS	Affinity Capture-MS	physical	Kumar R (2017)	29180619	9606	9606	High Throughput	-	-	-	-	-	BIOGRID
+2496271	3932	2625	110124	108895	RP4-675E8.4	-	LCK	GATA3	IMD22|LSK|YT16|p56lck|pp58lck	HDR|HDRS	Two-hybrid	physical	Yang X (2016)	26871637	9606	9606	High Throughput	-	-	-	-	-	BIOGRID
+2524975	1387	2625	107777	108895	-	-	CREBBP	GATA3	CBP|KAT3A|RSTS	HDR|HDRS	Biochemical Activity	physical	Li X (2018)	29453984	9606	9606	Low Throughput	-	Acetylation	-	-	-	BIOGRID
+2524976	1387	2625	107777	108895	-	-	CREBBP	GATA3	CBP|KAT3A|RSTS	HDR|HDRS	Affinity Capture-Western	physical	Li X (2018)	29453984	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2524977	2625	1387	108895	107777	-	-	GATA3	CREBBP	HDR|HDRS	CBP|KAT3A|RSTS	Affinity Capture-Western	physical	Li X (2018)	29453984	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2524978	1387	2625	107777	108895	-	-	CREBBP	GATA3	CBP|KAT3A|RSTS	HDR|HDRS	Reconstituted Complex	physical	Li X (2018)	29453984	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2524979	2625	1387	108895	107777	-	-	GATA3	CREBBP	HDR|HDRS	CBP|KAT3A|RSTS	Reconstituted Complex	physical	Li X (2018)	29453984	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2524980	2625	1387	108895	107777	-	-	GATA3	CREBBP	HDR|HDRS	CBP|KAT3A|RSTS	Co-localization	physical	Li X (2018)	29453984	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2524981	3065	2625	109315	108895	RP4-811H24.2	-	HDAC1	GATA3	GON-10|HD1|RPD3|RPD3L1	HDR|HDRS	Affinity Capture-Western	physical	Li X (2018)	29453984	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2524982	3066	2625	109316	108895	-	-	HDAC2	GATA3	HD2|RPD3|YAF1	HDR|HDRS	Affinity Capture-Western	physical	Li X (2018)	29453984	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2524983	8841	2625	114368	108895	-	-	HDAC3	GATA3	HD3|RPD3|RPD3-2	HDR|HDRS	Affinity Capture-Western	physical	Li X (2018)	29453984	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2524984	2625	3065	108895	109315	-	RP4-811H24.2	GATA3	HDAC1	HDR|HDRS	GON-10|HD1|RPD3|RPD3L1	Reconstituted Complex	physical	Li X (2018)	29453984	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2524985	2625	3066	108895	109316	-	-	GATA3	HDAC2	HDR|HDRS	HD2|RPD3|YAF1	Reconstituted Complex	physical	Li X (2018)	29453984	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2524986	2625	8841	108895	114368	-	-	GATA3	HDAC3	HDR|HDRS	HD3|RPD3|RPD3-2	Reconstituted Complex	physical	Li X (2018)	29453984	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2615251	1445	2625	107832	108895	-	-	CSK	GATA3	-	HDR|HDRS	Synthetic Lethality	genetic	Xiao T (2018)	29987050	9606	9606	High Throughput	-	-	Growth abnormality|viability	CRISPR GI screen|Cell Line:T47D|Experimental Setup: Timecourse, negative selection, viability|GIST: A-phenotypic negative genetic interaction|Library: Geckov2|Significance Threshold: FDR<0.05	-	BIOGRID
+2712039	2625	337959	108895	130644	-	-	GATA3	KRTAP13-2	HDR|HDRS	KAP13-2	Two-hybrid	physical	Luck K (2020)	32296183	9606	9606	High Throughput	-	-	-	This human reference interactome (HuRI) was generated by performing nine two-hybrid screens with the high confidence interactions determined by pairwise verification by quadruplicate retesting and sequence confirmation. This HI-III-20 dataset contains over 52,000 PPIs involving more than 8,000 proteins.	-	BIOGRID
+2712040	2625	337967	108895	130650	-	-	GATA3	KRTAP6-2	HDR|HDRS	KAP6.2	Two-hybrid	physical	Luck K (2020)	32296183	9606	9606	High Throughput	-	-	-	This human reference interactome (HuRI) was generated by performing nine two-hybrid screens with the high confidence interactions determined by pairwise verification by quadruplicate retesting and sequence confirmation. This HI-III-20 dataset contains over 52,000 PPIs involving more than 8,000 proteins.	-	BIOGRID
+2712041	2625	353332	108895	131687	-	-	GATA3	KRTAP12-1	HDR|HDRS	KAP12.1|KRTAP12.1	Two-hybrid	physical	Luck K (2020)	32296183	9606	9606	High Throughput	-	-	-	This human reference interactome (HuRI) was generated by performing nine two-hybrid screens with the high confidence interactions determined by pairwise verification by quadruplicate retesting and sequence confirmation. This HI-III-20 dataset contains over 52,000 PPIs involving more than 8,000 proteins.	-	BIOGRID
+2712042	2625	25894	108895	117402	-	-	GATA3	PLEKHG4	HDR|HDRS	ARHGEF44|PRTPHN1|SCA4	Two-hybrid	physical	Luck K (2020)	32296183	9606	9606	High Throughput	-	-	-	This human reference interactome (HuRI) was generated by performing nine two-hybrid screens with the high confidence interactions determined by pairwise verification by quadruplicate retesting and sequence confirmation. This HI-III-20 dataset contains over 52,000 PPIs involving more than 8,000 proteins.	-	BIOGRID
+2712043	2625	375791	108895	132001	-	RP13-122B23.5	GATA3	CYSRT1	HDR|HDRS	C9orf169	Two-hybrid	physical	Luck K (2020)	32296183	9606	9606	High Throughput	-	-	-	This human reference interactome (HuRI) was generated by performing nine two-hybrid screens with the high confidence interactions determined by pairwise verification by quadruplicate retesting and sequence confirmation. This HI-III-20 dataset contains over 52,000 PPIs involving more than 8,000 proteins.	-	BIOGRID
+2712044	2625	337968	108895	130651	-	-	GATA3	KRTAP6-3	HDR|HDRS	KAP6.3	Two-hybrid	physical	Luck K (2020)	32296183	9606	9606	High Throughput	-	-	-	This human reference interactome (HuRI) was generated by performing nine two-hybrid screens with the high confidence interactions determined by pairwise verification by quadruplicate retesting and sequence confirmation. This HI-III-20 dataset contains over 52,000 PPIs involving more than 8,000 proteins.	-	BIOGRID
+2752074	2099	2625	108403	108895	RP1-130E4.1	-	ESR1	GATA3	ER|ESR|ESRA|ESTRR|Era|NR3A1	HDR|HDRS	Affinity Capture-MS	physical	Mohammed H (2013)	23403292	9606	9606	High Throughput	-	-	-	-	-	BIOGRID
+2768092	23028	2625	116667	108895	RP1-184J9.1	-	KDM1A	GATA3	AOF2|BHC110|KDM1|LSD1	HDR|HDRS	Affinity Capture-Western	physical	Hu X (2019)	31409898	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2768093	2625	23028	108895	116667	-	RP1-184J9.1	GATA3	KDM1A	HDR|HDRS	AOF2|BHC110|KDM1|LSD1	Affinity Capture-Western	physical	Hu X (2019)	31409898	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2768094	23028	2625	116667	108895	RP1-184J9.1	-	KDM1A	GATA3	AOF2|BHC110|KDM1|LSD1	HDR|HDRS	Reconstituted Complex	physical	Hu X (2019)	31409898	9606	9606	Low Throughput	-	-	-	assayed using GST (glutathione S-transferase) pull-down experiments	-	BIOGRID
+2768095	2625	23186	108895	116796	-	-	GATA3	RCOR1	HDR|HDRS	COREST|RCOR	Affinity Capture-Western	physical	Hu X (2019)	31409898	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2768096	2625	3065	108895	109315	-	RP4-811H24.2	GATA3	HDAC1	HDR|HDRS	GON-10|HD1|RPD3|RPD3L1	Affinity Capture-Western	physical	Hu X (2019)	31409898	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2768097	2625	3066	108895	109316	-	-	GATA3	HDAC2	HDR|HDRS	HD2|RPD3|YAF1	Affinity Capture-Western	physical	Hu X (2019)	31409898	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2768098	2625	23028	108895	116667	-	RP1-184J9.1	GATA3	KDM1A	HDR|HDRS	AOF2|BHC110|KDM1|LSD1	Co-localization	physical	Hu X (2019)	31409898	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+2842188	84675	2625	124194	108895	-	-	TRIM55	GATA3	MURF-2|RNF29|muRF2	HDR|HDRS	Two-hybrid	physical	Nowak M (2019)	31391242	9606	9606	High Throughput	0.33	-	-	for each interaction detected, a custom score was provided based on a composite measure of plate growth and reporter expression, with a value between 0 and 1, with 1 being the strongest apparent interaction|one or more bait construct variants were found to interact with the prey gene in a yeast two hybrid assay in one or more samples each|the maximum of potentially several such scores is reported here	-	BIOGRID
+2842437	84676	2625	124195	108895	-	-	TRIM63	GATA3	IRF|MURF1|MURF2|RNF28|SMRZ	HDR|HDRS	Two-hybrid	physical	Nowak M (2019)	31391242	9606	9606	High Throughput	0.26	-	-	for each interaction detected, a custom score was provided based on a composite measure of plate growth and reporter expression, with a value between 0 and 1, with 1 being the strongest apparent interaction|one or more bait construct variants were found to interact with the prey gene in a yeast two hybrid assay in one or more samples each|the maximum of potentially several such scores is reported here	-	BIOGRID
+2891486	23152	2625	116767	108895	-	-	CIC	GATA3	-	HDR|HDRS	Affinity Capture-MS	physical	Weissmann S (2018)	29844126	9606	9606	High Throughput	-	-	-	-	-	BIOGRID
+3202984	27005	2625	117950	108895	RP11-297K8.3	-	USP21	GATA3	USP16|USP23	HDR|HDRS	Affinity Capture-Western	physical	Guo Q (2021)	33791299	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3202985	2625	27005	108895	117950	-	RP11-297K8.3	GATA3	USP21	HDR|HDRS	USP16|USP23	Affinity Capture-Western	physical	Guo Q (2021)	33791299	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3312257	2625	57504	108895	121568	-	hCG_1783907	GATA3	MTA3	HDR|HDRS	-	Co-localization	physical	Huang W (2021)	34026424	9606	9606	Low Throughput	-	-	-	ChIP-reChIP	-	BIOGRID
+3312258	2625	3065	108895	109315	-	RP4-811H24.2	GATA3	HDAC1	HDR|HDRS	GON-10|HD1|RPD3|RPD3L1	Co-localization	physical	Huang W (2021)	34026424	9606	9606	Low Throughput	-	-	-	ChIP-reChIP	-	BIOGRID
+3312259	57504	2625	121568	108895	hCG_1783907	-	MTA3	GATA3	-	HDR|HDRS	Co-localization	physical	Huang W (2021)	34026424	9606	9606	Low Throughput	-	-	-	ChIP-reChIP	-	BIOGRID
+3312261	3065	2625	109315	108895	RP4-811H24.2	-	HDAC1	GATA3	GON-10|HD1|RPD3|RPD3L1	HDR|HDRS	Co-localization	physical	Huang W (2021)	34026424	9606	9606	Low Throughput	-	-	-	ChIP-reChIP	-	BIOGRID
+3314713	2625	23028	108895	116667	-	RP1-184J9.1	GATA3	KDM1A	HDR|HDRS	AOF2|BHC110|KDM1|LSD1	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314714	2625	23414	108895	116986	-	-	GATA3	ZFPM2	HDR|HDRS	DIH3|FOG2|SRXY9|ZC2HC11B|ZNF89B|hFOG-2	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314715	2625	1387	108895	107777	-	-	GATA3	CREBBP	HDR|HDRS	CBP|KAT3A|RSTS	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314716	2625	23186	108895	116796	-	-	GATA3	RCOR1	HDR|HDRS	COREST|RCOR	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314717	2625	8289	108895	113894	-	RP1-50O24.1	GATA3	ARID1A	HDR|HDRS	B120|BAF250|BAF250a|BM029|C1orf4|ELD|MRD14|OSA1|P270|SMARCF1|hELD|hOSA1	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314718	2625	8085	108895	113758	-	-	GATA3	KMT2D	HDR|HDRS	AAD10|ALR|CAGL114|KABUK1|KMS|MLL2|MLL4|TNRC21	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314719	2625	7403	108895	113246	-	RP13-886N14.3	GATA3	KDM6A	HDR|HDRS	KABUK2|UTX|bA386N14.2	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314720	2625	9611	108895	114973	-	-	GATA3	NCOR1	HDR|HDRS	N-CoR|N-CoR1|PPP1R109|TRAC1|hN-CoR	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314721	2625	57466	108895	121536	-	-	GATA3	SCAF4	HDR|HDRS	SFRS15|SRA4	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314722	2625	10664	108895	115906	-	-	GATA3	CTCF	HDR|HDRS	MRD21	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314723	2625	6595	108895	112479	-	-	GATA3	SMARCA2	HDR|HDRS	BAF190|BRM|NCBRS|SNF2|SNF2L2|SNF2LA|SWI2|Sth1p|hBRM|hSNF2a	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314724	2625	4302	108895	110448	-	-	GATA3	MLLT6	HDR|HDRS	AF17	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314725	2625	2033	108895	108347	-	RP1-85F18.1	GATA3	EP300	HDR|HDRS	KAT3B|RSTS2|p300	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314726	2625	55193	108895	120490	-	-	GATA3	PBRM1	HDR|HDRS	BAF180|PB1	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314727	2625	6599	108895	112483	-	-	GATA3	SMARCC1	HDR|HDRS	BAF155|CRACC1|Rsc8|SRG3|SWI3	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314728	2625	6603	108895	112487	-	PRO2451	GATA3	SMARCD2	HDR|HDRS	BAF60B|CRACD2|Rsc6p	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314729	2625	84858	108895	124306	-	RP11-399K21.11	GATA3	ZNF503	HDR|HDRS	NOLZ-1|NOLZ1	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314730	2625	6602	108895	112486	-	-	GATA3	SMARCD1	HDR|HDRS	BAF60A|CRACD1|Rsc6p	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314731	2625	6045	108895	111972	-	GS1-120K12.1	GATA3	RNF2	HDR|HDRS	BAP-1|BAP1|DING|HIPI3|RING1B|RING2	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314732	2625	80139	108895	123134	-	-	GATA3	ZNF703	HDR|HDRS	ZEPPO1|ZNF503L|ZPO1	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314733	2625	10363	108895	115643	-	-	GATA3	HMG20A	HDR|HDRS	HMGX1|HMGXB1	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314734	2625	6934	108895	112795	-	RP11-357H24.1	GATA3	TCF7L2	HDR|HDRS	TCF-4|TCF4	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314735	2625	55636	108895	120775	-	-	GATA3	CHD7	HDR|HDRS	CRG|HH5|IS3|KAL5	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314736	2625	9612	108895	114974	-	-	GATA3	NCOR2	HDR|HDRS	CTG26|N-CoR2|SMAP270|SMRT|SMRTE|SMRTE-tau|TNRC14|TRAC|TRAC-1|TRAC1	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314737	2625	8202	108895	113841	-	RP5-1049G16.3	GATA3	NCOA3	HDR|HDRS	ACTR|AIB-1|AIB1|CAGH16|CTG26|KAT13B|RAC3|SRC-3|SRC3|TNRC14|TNRC16|TRAM-1|bHLHe42|pCIP	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314738	2625	4782	108895	110854	-	-	GATA3	NFIC	HDR|HDRS	CTF|CTF5|NF-I|NFI	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314739	2625	2624	108895	108894	-	-	GATA3	GATA2	HDR|HDRS	DCML|IMD21|MONOMAC|NFE1B	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314740	2625	6304	108895	112211	-	-	GATA3	SATB1	HDR|HDRS	-	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314741	2625	7088	108895	112943	-	RP11-203D19.1	GATA3	TLE1	HDR|HDRS	ESG|ESG1|GRG1	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314742	2625	7090	108895	112945	-	-	GATA3	TLE3	HDR|HDRS	ESG|ESG3|GRG3|HsT18976	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314743	2625	54880	108895	120228	-	-	GATA3	BCOR	HDR|HDRS	ANOP2|MAA2|MCOPS2	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314744	2625	84678	108895	124197	-	-	GATA3	KDM2B	HDR|HDRS	CXXC2|FBXL10|Fbl10|JHDM1B|PCCX2	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314745	2625	23152	108895	116767	-	-	GATA3	CIC	HDR|HDRS	-	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314746	2625	1820	108895	108154	-	-	GATA3	ARID3A	HDR|HDRS	BRIGHT|DRIL1|DRIL3|E2FBP1	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314747	2625	7227	108895	113078	-	-	GATA3	TRPS1	HDR|HDRS	GC79|LGCR	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314748	2625	51804	108895	119730	-	-	GATA3	SIX4	HDR|HDRS	AREC3	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314749	2625	607	108895	107079	-	-	GATA3	BCL9	HDR|HDRS	LGS	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314750	2625	23060	108895	116695	-	-	GATA3	ZNF609	HDR|HDRS	-	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314751	2625	9745	108895	115093	-	-	GATA3	ZNF536	HDR|HDRS	-	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314752	2625	10270	108895	115561	-	-	GATA3	AKAP8	HDR|HDRS	AKAP 95|AKAP-8|AKAP-95|AKAP95	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314753	2625	6907	108895	112770	-	-	GATA3	TBL1X	HDR|HDRS	EBI|SMAP55|TBL1	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314754	2625	55660	108895	120792	-	HSPC225	GATA3	PRPF40A	HDR|HDRS	FBP-11|FBP11|FLAF1|FNBP3|HIP-10|HIP10|HYPA|NY-REN-6|Prp40	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314755	2625	51585	108895	119622	-	-	GATA3	PCF11	HDR|HDRS	-	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314756	2625	58525	108895	121845	-	-	GATA3	WIZ	HDR|HDRS	ZNF803	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314757	2625	3096	108895	109343	-	RP3-451B15.2	GATA3	HIVEP1	HDR|HDRS	CIRIP|CRYBP1|GAAP|MBP-1|PRDII-BF1|Schnurri-1|ZAS1|ZNF40|ZNF40A	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314758	2625	6164	108895	112083	-	-	GATA3	RPL34	HDR|HDRS	L34	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314759	2625	10238	108895	115532	-	-	GATA3	DCAF7	HDR|HDRS	AN11|HAN11|SWAN-1|WDR68	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314760	2625	6500	108895	112391	-	-	GATA3	SKP1	HDR|HDRS	EMC19|OCP-II|OCP2|SKP1A|TCEB1L|p19A	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314761	2625	6742	108895	112620	-	-	GATA3	SSBP1	HDR|HDRS	Mt-SSB|SOSS-B1|SSBP|mtSSB	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314762	2625	6015	108895	111947	-	DADB-100D22.6	GATA3	RING1	HDR|HDRS	RING1A|RNF1	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314763	2625	166	108895	106675	-	-	GATA3	AES	HDR|HDRS	AES-1|AES-2|ESP1|GRG|GRG5|Grg-5|TLE5	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314764	2625	6598	108895	112482	-	-	GATA3	SMARCB1	HDR|HDRS	BAF47|INI1|MRD15|PPP1R144|RDT|RTPS1|SNF5|SNF5L1|SWNTS1|Sfh1p|Snr1|hSNFS	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314765	2625	4774	108895	110847	-	RP5-902P15.1	GATA3	NFIA	HDR|HDRS	CTF|NF-I/A|NF1-A|NFI-A|NFI-L	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314766	2625	2296	108895	108585	-	-	GATA3	FOXC1	HDR|HDRS	ARA|FKHL7|FREAC-3|FREAC3|IGDA|IHG1|IRID1|RIEG3	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314767	2625	23435	108895	117003	-	RP4-635E18.2	GATA3	TARDBP	HDR|HDRS	ALS10|TDP-43	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314768	2625	23199	108895	116808	-	-	GATA3	GSE1	HDR|HDRS	KIAA0182	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314769	2625	605	108895	107077	-	-	GATA3	BCL7A	HDR|HDRS	BCL7	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314770	2625	84726	108895	124226	-	RP11-334J6.1	GATA3	PRRC2B	HDR|HDRS	BAT2L|BAT2L1|KIAA0515|LQFBS-1	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314771	2625	282996	108895	129433	-	RP11-313D6.1	GATA3	RBM20	HDR|HDRS	-	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314772	2625	57673	108895	121704	-	RP11-59I9.2	GATA3	BEND3	HDR|HDRS	KIAA1553	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314773	2625	155061	108895	127574	-	-	GATA3	ZNF746	HDR|HDRS	PARIS	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314774	2625	91748	108895	124872	-	-	GATA3	ELMSAN1	HDR|HDRS	C14orf117|C14orf43|LSR68|c14_5541	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314775	2625	22976	108895	116625	-	CAGF28	GATA3	PAXIP1	HDR|HDRS	CAGF29|PACIP1|PAXIP1L|PTIP|TNRC2	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314776	2625	79776	108895	122877	-	-	GATA3	ZFHX4	HDR|HDRS	ZFH4|ZHF4	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314777	2625	10620	108895	115865	-	-	GATA3	ARID3B	HDR|HDRS	BDP|DRIL2	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314778	2625	10147	108895	115449	-	-	GATA3	SUGP2	HDR|HDRS	SFRS14	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314779	2625	55749	108895	120867	-	RP11-437A18.1	GATA3	CCAR1	HDR|HDRS	-	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314780	2625	10138	108895	115441	-	-	GATA3	YAF2	HDR|HDRS	-	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314781	2625	125950	108895	125936	-	hCG_2033729	GATA3	RAVER1	HDR|HDRS	-	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314782	2625	23429	108895	116997	-	-	GATA3	RYBP	HDR|HDRS	AAP1|DEDAF|YEAF1	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314783	2625	79869	108895	122957	-	-	GATA3	CPSF7	HDR|HDRS	CFIm59	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314784	2625	163051	108895	127845	-	-	GATA3	ZNF709	HDR|HDRS	-	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314785	2625	57492	108895	121559	-	RP11-419L10.1	GATA3	ARID1B	HDR|HDRS	6A3-5|BAF250B|BRIGHT|DAN15|ELD/OSA1|MRD12|OSA2|P250R	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314786	2625	79710	108895	122827	-	RP1-75H8.4	GATA3	MORC4	HDR|HDRS	ZCW4|ZCWCC2|dJ75H8.2	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314787	2625	84444	108895	124082	-	-	GATA3	DOT1L	HDR|HDRS	DOT1|KMT4	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314788	2625	9274	108895	114691	-	-	GATA3	BCL7C	HDR|HDRS	-	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314789	2625	8193	108895	113836	-	-	GATA3	DPF1	HDR|HDRS	BAF45b|NEUD4|neuro-d4	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314790	2625	5977	108895	111909	-	-	GATA3	DPF2	HDR|HDRS	REQ|UBID4|ubi-d4	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314791	2625	7874	108895	113622	-	-	GATA3	USP7	HDR|HDRS	HAUSP|TEF1	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314792	2625	8880	108895	114399	-	-	GATA3	FUBP1	HDR|HDRS	FBP|FUBP	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314793	2625	221504	108895	128736	-	DASS-97D12.7	GATA3	ZBTB9	HDR|HDRS	ZNF919	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314794	2625	8939	108895	114451	-	RP11-57C19.3	GATA3	FUBP3	HDR|HDRS	FBP3	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314795	2625	51663	108895	119667	-	-	GATA3	ZFR	HDR|HDRS	SPG71|ZFR1	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314796	2625	9444	108895	114834	-	-	GATA3	QKI	HDR|HDRS	Hqk|QK|QK1|QK3|hqkI	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314797	2625	84759	108895	124243	-	-	GATA3	PCGF1	HDR|HDRS	2010002K04Rik|NSPC1|RNF3A-2|RNF68	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314798	2625	79718	108895	122834	-	-	GATA3	TBL1XR1	HDR|HDRS	C21|DC42|IRA1|TBLR1	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314799	2625	57666	108895	121699	-	-	GATA3	FBRSL1	HDR|HDRS	-	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314800	2625	10137	108895	115440	-	RP1-309K20.5	GATA3	RBM12	HDR|HDRS	HRIHFB2091|SWAN	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314801	2625	53981	108895	119826	-	-	GATA3	CPSF2	HDR|HDRS	CPSF100	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314802	2625	55758	108895	120876	-	RP11-318L16.1	GATA3	RCOR3	HDR|HDRS	-	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314803	2625	57479	108895	121549	-	-	GATA3	PRR12	HDR|HDRS	KIAA1205	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314804	2625	23314	108895	116905	-	-	GATA3	SATB2	HDR|HDRS	GLSS	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3314805	2625	23528	108895	117074	-	-	GATA3	ZNF281	HDR|HDRS	ZBP-99|ZNP-99	Proximity Label-MS	physical		35140242	9606	9606	High Throughput	-	-	-	BioID	-	BIOGRID
+3320080	2625	26156	108895	117587	-	L12	GATA3	RSL1D1	HDR|HDRS	CSIG|PBK1|UTP30	Affinity Capture-MS	physical		35140242	9606	9606	High Throughput	-	-	-	Filtered using SAINT software tools (cutoff 0.74) and CRAPome database	-	BIOGRID
+3320081	2625	2512	108895	108789	-	-	GATA3	FTL	HDR|HDRS	LFTD|NBIA3	Affinity Capture-MS	physical		35140242	9606	9606	High Throughput	-	-	-	Filtered using SAINT software tools (cutoff 0.74) and CRAPome database	-	BIOGRID
+3320082	2625	2495	108895	108773	-	OK/SW-cl.84	GATA3	FTH1	HDR|HDRS	FHC|FTH|FTHL6|HFE5|PIG15|PLIF	Affinity Capture-MS	physical		35140242	9606	9606	High Throughput	-	-	-	Filtered using SAINT software tools (cutoff 0.74) and CRAPome database	-	BIOGRID
+3320083	2625	7157	108895	113010	-	-	GATA3	TP53	HDR|HDRS	BCC7|LFS1|P53|TRP53	Affinity Capture-MS	physical		35140242	9606	9606	High Throughput	-	-	-	Filtered using SAINT software tools (cutoff 0.74) and CRAPome database	-	BIOGRID
+3320084	2625	3329	108895	109561	-	-	GATA3	HSPD1	HDR|HDRS	CPN60|GROEL|HLD4|HSP-60|HSP60|HSP65|HuCHA60|SPG13	Affinity Capture-MS	physical		35140242	9606	9606	High Throughput	-	-	-	Filtered using SAINT software tools (cutoff 0.74) and CRAPome database	-	BIOGRID
+3320085	2625	9361	108895	114762	-	-	GATA3	LONP1	HDR|HDRS	LON|LONP|LonHS|PIM1|PRSS15|hLON	Affinity Capture-MS	physical		35140242	9606	9606	High Throughput	-	-	-	Filtered using SAINT software tools (cutoff 0.74) and CRAPome database	-	BIOGRID
+3320086	2625	4361	108895	110501	-	-	GATA3	MRE11A	HDR|HDRS	ATLD|HNGS1|MRE11|MRE11B	Affinity Capture-MS	physical		35140242	9606	9606	High Throughput	-	-	-	Filtered using SAINT software tools (cutoff 0.74) and CRAPome database	-	BIOGRID
+3320087	2625	2010	108895	108325	-	XX-FW88778H2.1	GATA3	EMD	HDR|HDRS	EDMD|LEMD5|STA	Affinity Capture-MS	physical		35140242	9606	9606	High Throughput	-	-	-	Filtered using SAINT software tools (cutoff 0.74) and CRAPome database	-	BIOGRID
+3320088	2625	6742	108895	112620	-	-	GATA3	SSBP1	HDR|HDRS	Mt-SSB|SOSS-B1|SSBP|mtSSB	Affinity Capture-MS	physical		35140242	9606	9606	High Throughput	-	-	-	Filtered using SAINT software tools (cutoff 0.74) and CRAPome database	-	BIOGRID
+3320089	2625	3959	108895	110150	-	-	GATA3	LGALS3BP	HDR|HDRS	90K|BTBD17B|CyCAP|M2BP|MAC-2-BP|TANGO10B|gp90	Affinity Capture-MS	physical		35140242	9606	9606	High Throughput	-	-	-	Filtered using SAINT software tools (cutoff 0.74) and CRAPome database	-	BIOGRID
+3320090	2625	1642	108895	108009	-	-	GATA3	DDB1	HDR|HDRS	DDBA|UV-DDB1|XAP1|XPCE|XPE|XPE-BF	Affinity Capture-MS	physical		35140242	9606	9606	High Throughput	-	-	-	Filtered using SAINT software tools (cutoff 0.74) and CRAPome database	-	BIOGRID
+3320091	2625	55291	108895	120579	-	-	GATA3	PPP6R3	HDR|HDRS	C11orf23|PP6R3|SAP190|SAPL|SAPLa|SAPS3	Affinity Capture-MS	physical		35140242	9606	9606	High Throughput	-	-	-	Filtered using SAINT software tools (cutoff 0.74) and CRAPome database	-	BIOGRID
+3320092	2625	23089	108895	116717	-	-	GATA3	PEG10	HDR|HDRS	EDR|HB-1|MEF3L|Mar2|Mart2|RGAG3	Affinity Capture-MS	physical		35140242	9606	9606	High Throughput	-	-	-	Filtered using SAINT software tools (cutoff 0.74) and CRAPome database	-	BIOGRID
+3320093	2625	10111	108895	115417	-	-	GATA3	RAD50	HDR|HDRS	NBSLD|RAD502|hRad50	Affinity Capture-MS	physical		35140242	9606	9606	High Throughput	-	-	-	Filtered using SAINT software tools (cutoff 0.74) and CRAPome database	-	BIOGRID
+3320094	2625	8239	108895	113867	-	RP5-1172N10.4	GATA3	USP9X	HDR|HDRS	DFFRX|FAF|FAM|MRX99	Affinity Capture-MS	physical		35140242	9606	9606	High Throughput	-	-	-	Filtered using SAINT software tools (cutoff 0.74) and CRAPome database	-	BIOGRID
+3320095	2625	8816	108895	114343	-	-	GATA3	DCAF5	HDR|HDRS	BCRG2|BCRP2|D14S1461E|WDR22	Affinity Capture-MS	physical		35140242	9606	9606	High Throughput	-	-	-	Filtered using SAINT software tools (cutoff 0.74) and CRAPome database	-	BIOGRID
+3320096	2625	4343	108895	110484	-	RP11-426L16.2	GATA3	MOV10	HDR|HDRS	fSAP113|gb110	Affinity Capture-MS	physical		35140242	9606	9606	High Throughput	-	-	-	Filtered using SAINT software tools (cutoff 0.74) and CRAPome database	-	BIOGRID
+3320097	2625	25814	108895	117343	-	RP1-37M3.7	GATA3	ATXN10	HDR|HDRS	E46L|HUMEEP|SCA10	Affinity Capture-MS	physical		35140242	9606	9606	High Throughput	-	-	-	Filtered using SAINT software tools (cutoff 0.74) and CRAPome database	-	BIOGRID
+3321747	4774	2625	110847	108895	RP5-902P15.1	-	NFIA	GATA3	CTF|NF-I/A|NF1-A|NFI-A|NFI-L	HDR|HDRS	Reconstituted Complex	physical		35140242	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3321762	4781	2625	110853	108895	RP11-280O24.2	-	NFIB	GATA3	CTF|HMGIC/NFIB|NF-I/B|NF1-B|NFI-B|NFI-RED|NFIB2|NFIB3	HDR|HDRS	Reconstituted Complex	physical		35140242	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3321777	4782	2625	110854	108895	-	-	NFIC	GATA3	CTF|CTF5|NF-I|NFI	HDR|HDRS	Reconstituted Complex	physical		35140242	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3397173	4613	2625	110698	108895	-	-	MYCN	GATA3	MODED|N-myc|NMYC|ODED|bHLHe37	HDR|HDRS	Affinity Capture-MS	physical	Wang L (2022)	35013218	9606	9606	High Throughput	-	-	-	Affinity Capture-MS was carried out to identify high confidence protein interactors with a p value<0.05 and a fold change >2 over control.	-	BIOGRID
+3477059	7737	2625	113523	108895	-	-	RNF113A	GATA3	Cwc24|RNF113|ZNF183	HDR|HDRS	Co-fractionation	physical	Lukinovic V (2022)	35819319	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496101	2625	64969	108895	122362	-	-	GATA3	MRPS5	HDR|HDRS	MRP-S5|S5mt	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496102	2625	8239	108895	113867	-	RP5-1172N10.4	GATA3	USP9X	HDR|HDRS	DFFRX|FAF|FAM|MRX99	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496336	2625	23673	108895	117191	-	RP3-426I6.4	GATA3	STX12	HDR|HDRS	STX13|STX14	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496337	2625	55003	108895	120335	-	RP11-421M1.5	GATA3	PAK1IP1	HDR|HDRS	MAK11|PIP1|WDR84|bA421M1.5|hPIP1	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496338	2625	9878	108895	115209	-	-	GATA3	TOX4	HDR|HDRS	C14orf92|KIAA0737|LCP1|MIG7	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496339	2625	64976	108895	122364	-	-	GATA3	MRPL40	HDR|HDRS	MRP-L22|MRPL22|NLVCF|URIM	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496340	2625	79724	108895	122839	-	-	GATA3	ZNF768	HDR|HDRS	-	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496341	2625	9987	108895	115308	-	-	GATA3	HNRNPDL	HDR|HDRS	HNRNP|HNRPDL|JKTBP|JKTBP2|LGMD1G|laAUF1	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496342	2625	8930	108895	114444	-	-	GATA3	MBD4	HDR|HDRS	MED1	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496343	2625	9972	108895	115297	-	-	GATA3	NUP153	HDR|HDRS	HNUP153|N153	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496344	2625	65005	108895	122370	-	RP11-98D18.5	GATA3	MRPL9	HDR|HDRS	L9mt	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496345	2625	57332	108895	121487	-	-	GATA3	CBX8	HDR|HDRS	PC3|RC1	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496346	2625	55234	108895	120528	-	RP11-54K16.3	GATA3	SMU1	HDR|HDRS	BWD|SMU-1|fSAP57	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496347	2625	7155	108895	113008	-	-	GATA3	TOP2B	HDR|HDRS	TOPIIB|top2beta	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496348	2625	221496	108895	128735	-	RP3-482C21.2	GATA3	LEMD2	HDR|HDRS	NET25|dJ482C21.1	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496349	2625	4029	108895	110209	-	-	GATA3	L1RE1	HDR|HDRS	L1.2|LRE1	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496350	2625	10056	108895	115367	-	HSPC173	GATA3	FARSB	HDR|HDRS	FARSLB|FRSB|PheHB|PheRS	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496351	2625	9868	108895	115201	-	-	GATA3	TOMM70A	HDR|HDRS	-	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496352	2625	51706	108895	119690	-	UNQ3049/PRO9865	GATA3	CYB5R1	HDR|HDRS	B5R.1|B5R1|B5R2|NQO3A2|humb5R2	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496353	2625	23530	108895	117076	-	hCG_17428	GATA3	NNT	HDR|HDRS	GCCD4	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496497	2625	493	108895	106983	-	-	GATA3	ATP2B4	HDR|HDRS	ATP2B2|MXRA1|PMCA4|PMCA4b|PMCA4x	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3496498	2625	6624	108895	112508	-	-	GATA3	FSCN1	HDR|HDRS	FAN1|HSN|SNL|p55	Affinity Capture-MS	physical	Kim M (2021)	34591612	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3520952	3516	2625	109736	108895	-	-	RBPJ	GATA3	AOS3|CBF1|IGKJRB|IGKJRB1|KBF2|RBP-J|RBPJK|RBPSUH|SUH|csl	HDR|HDRS	Affinity Capture-MS	physical	Jiang H (2022)	36129980	9606	9606	High Throughput	-	-	-	-	-	BIOGRID
+3710496	1051	2625	107480	108895	PP9092	-	CEBPB	GATA3	C/EBP-beta|IL6DBP|NF-IL6|TCF5	HDR|HDRS	Affinity Capture-MS	physical	Dittmar G (2019)	30884312	9606	9606	High Throughput	-	-	-	FDR cutoff of 5%|IP-MS in SU-DHL1 cells	-	BIOGRID
+3725025	4221	2625	110384	108895	-	-	MEN1	GATA3	MEAI|SCG2	HDR|HDRS	Affinity Capture-MS	physical	Chou CW (2020)	32971831	9606	9606	High Throughput	-	-	-	-	-	BIOGRID
+

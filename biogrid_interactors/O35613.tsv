@@ -1,0 +1,43 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+317467	26408	13163	204961	199054	-	-	Map3k5	Daxx	7420452D20Rik|ASK|ASK1|MAPKKK5|Mekk5	-	Affinity Capture-Western	physical	Chang HY (1998)	9743501	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+328095	13163	56289	199054	207877	-	AL672219.1	Daxx	Rassf1	-	123F2|AA536941|AU044980|NORE2A|RDA32|REH3P21|Rassf1A|Rassf1B|Rassf1C	Affinity Capture-Western	physical	Song MS (2008)	18566590	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+328096	13163	17246	199054	201372	-	-	Daxx	Mdm2	-	1700007J15Rik|AA415488|Mdm-2	Affinity Capture-Western	physical	Song MS (2008)	18566590	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+328097	13163	22059	199054	204323	-	RP23-56I20.1	Daxx	Trp53	-	Tp53|bbl|bfy|bhy|p44|p53	Affinity Capture-Western	physical	Song MS (2008)	18566590	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+469435	13163	26427	199054	204979	-	RP23-37B7.1	Daxx	Creb3l1	-	Oasis	Two-hybrid	physical	Ravasi T (2010)	20211142	10090	10090	High Throughput	-	-	-	-	-	BIOGRID
+469436	13163	66233	199054	211314	-	RP23-99G21.2	Daxx	Dmap1	-	1500016M21Rik|DNMAP1|DNMTAP1|Dmtap1|mKIAA1425	Two-hybrid	physical	Ravasi T (2010)	20211142	10090	10090	High Throughput	-	-	-	-	-	BIOGRID
+607081	13163	66233	199054	211314	-	RP23-99G21.2	Daxx	Dmap1	-	1500016M21Rik|DNMAP1|DNMTAP1|Dmtap1|mKIAA1425	Two-hybrid	physical	Muromoto R (2004)	14978102	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+607086	13163	66233	199054	211314	-	RP23-99G21.2	Daxx	Dmap1	-	1500016M21Rik|DNMAP1|DNMTAP1|Dmtap1|mKIAA1425	Affinity Capture-Western	physical	Muromoto R (2004)	14978102	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+607711	17246	13163	201372	199054	-	-	Mdm2	Daxx	1700007J15Rik|AA415488|Mdm-2	-	Affinity Capture-Western	physical	Song MS (2008)	18566590	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+610796	13163	22218	199054	204420	-	-	Daxx	Sumo1	-	GMP1|PIC1|SENTRIN|SMT3|SMT3H3|SMTP3|SUMO-1|Smt3C|Ubl1	Co-crystal Structure	physical	Escobar-Cabrera E (2011)	21383010	10090	10090	Low Throughput	-	-	-	#LPPI|Likely protein-protein interaction|interaction detected by NMR	-	BIOGRID
+610797	13163	170930	199054	228466	-	RP23-392H19.10-007	Daxx	Sumo2	-	SUMO-2|Smt3A|Smt3b|Smt3h2	Co-crystal Structure	physical	Escobar-Cabrera E (2011)	21383010	10090	10090	Low Throughput	-	-	-	#LPPI|Likely protein-protein interaction|interaction detected by NMR	-	BIOGRID
+610798	13163	22218	199054	204420	-	-	Daxx	Sumo1	-	GMP1|PIC1|SENTRIN|SMT3|SMT3H3|SMTP3|SUMO-1|Smt3C|Ubl1	Reconstituted Complex	physical	Escobar-Cabrera E (2011)	21383010	10090	10090	Low Throughput	-	-	-	#LPPI|Likely protein-protein interaction	-	BIOGRID
+610799	13163	170930	199054	228466	-	RP23-392H19.10-007	Daxx	Sumo2	-	SUMO-2|Smt3A|Smt3b|Smt3h2	Reconstituted Complex	physical	Escobar-Cabrera E (2011)	21383010	10090	10090	Low Throughput	-	-	-	#LPPI|Likely protein-protein interaction	-	BIOGRID
+729982	26419	13163	204971	199054	-	-	Mapk8	Daxx	AI849689|JNK|JNK1|Prkm8|SAPK1	-	Affinity Capture-Western	physical	Lalioti VS (2009)	18932217	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+729984	20528	13163	203307	199054	-	-	Slc2a4	Daxx	Glut-4|Glut4	-	Affinity Capture-Western	physical	Lalioti VS (2009)	18932217	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+729986	26419	13163	204971	199054	-	-	Mapk8	Daxx	AI849689|JNK|JNK1|Prkm8|SAPK1	-	Two-hybrid	physical	Lalioti VS (2009)	18932217	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+729989	13163	16573	199054	200946	-	-	Daxx	Kif5b	-	AL022807|Khc|Khcs|Kns1|Ukhc	Affinity Capture-Western	physical	Lalioti VS (2009)	18932217	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+729990	16573	13163	200946	199054	-	-	Kif5b	Daxx	AL022807|Khc|Khcs|Kns1|Ukhc	-	Affinity Capture-Western	physical	Lalioti VS (2009)	18932217	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+729991	20528	13163	203307	199054	-	-	Slc2a4	Daxx	Glut-4|Glut4	-	Two-hybrid	physical	Lalioti VS (2009)	18932217	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+859433	13163	22059	199054	204323	-	RP23-56I20.1	Daxx	Trp53	-	Tp53|bbl|bfy|bhy|p44|p53	Affinity Capture-Western	physical	Zhao LY (2004)	15364927	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+859434	13163	17246	199054	201372	-	-	Daxx	Mdm2	-	1700007J15Rik|AA415488|Mdm-2	Affinity Capture-Western	physical	Zhao LY (2004)	15364927	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+1277701	13163	58231	199054	208405	-	RP23-346D16.3	Daxx	Stk4	-	AI447339|AU020804|Kas-2|Mst1|Ysk3	Affinity Capture-Western	physical	Yun HJ (2011)	21572393	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+1416812	7048	13163	112906	199054	-	-	TGFBR2	Daxx	AAT3|FAA3|LDS1B|LDS2|LDS2B|MFS2|RIIC|TAAD2|TGFR-2|TGFbeta-RII	-	Affinity Capture-Western	physical	Perlman R (2001)	11483955	9606	10090	Low Throughput	-	-	-	Figure 1	-	BIOGRID
+1416813	14102	13163	199594	199054	-	-	Fas	Daxx	AI196731|APO1|APT1|CD95|TNFR6|Tnfrsf6|lpr	-	Affinity Capture-Western	physical	Perlman R (2001)	11483955	10090	10090	Low Throughput	-	-	-	Figure 1	-	BIOGRID
+1416814	13163	7048	199054	112906	-	-	Daxx	TGFBR2	-	AAT3|FAA3|LDS1B|LDS2|LDS2B|MFS2|RIIC|TAAD2|TGFR-2|TGFbeta-RII	Affinity Capture-Western	physical	Perlman R (2001)	11483955	10090	9606	Low Throughput	-	-	-	Figure 1	-	BIOGRID
+1416815	7048	13163	112906	199054	-	-	TGFBR2	Daxx	AAT3|FAA3|LDS1B|LDS2|LDS2B|MFS2|RIIC|TAAD2|TGFR-2|TGFbeta-RII	-	Two-hybrid	physical	Perlman R (2001)	11483955	9606	10090	Low Throughput	-	-	-	Figure 2	-	BIOGRID
+1416816	14102	13163	199594	199054	-	-	Fas	Daxx	AI196731|APO1|APT1|CD95|TNFR6|Tnfrsf6|lpr	-	Two-hybrid	physical	Perlman R (2001)	11483955	10090	10090	Low Throughput	-	-	-	Figure 2	-	BIOGRID
+1505282	7341	13163	113188	199054	OK/SW-cl.43	-	SUMO1	Daxx	DAP1|GMP1|OFC10|PIC1|SENP2|SMT3|SMT3C|SMT3H3|UBL1	-	Co-crystal Structure	physical	Cappadocia L (2015)	25497731	9606	10090	Low Throughput	-	-	-	peptide of Daxx-SIM	-	BIOGRID
+2450835	13163	2703426	199054	971451	-	HHV1gp079	Daxx	UL54	-	-	Affinity Capture-Western	physical	Tang Q (2003)	12719575	10090	10298	Low Throughput	-	-	-	-	-	BIOGRID
+2450836	13163	2703458	199054	971471	-	HHV1gp41.5	Daxx	UL29	-	-	Affinity Capture-Western	physical	Tang Q (2003)	12719575	10090	10298	Low Throughput	-	-	-	-	-	BIOGRID
+2450837	13163	2703392	199054	971429	-	HHV1gp084	Daxx	RS1	-	-	Affinity Capture-Western	physical	Tang Q (2003)	12719575	10090	10298	Low Throughput	-	-	-	-	-	BIOGRID
+2498034	13163	84505	199054	220006	-	-	Daxx	Setdb1	-	AU022152|ESET|KMT1E|mKIAA0067	Affinity Capture-Western	physical	Hoelper D (2017)	29084956	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+2498035	13163	21849	199054	204197	-	-	Daxx	Trim28	-	AA408787|KAP-1|KRIP-1|MommeD9|Tif1b|Tif1beta	Affinity Capture-Western	physical	Hoelper D (2017)	29084956	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+2498036	13163	15268	199054	200311	-	-	Daxx	Hist3	-	-	Affinity Capture-Western	physical	Hoelper D (2017)	29084956	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+2498037	13163	320332	199054	235942	-	mCG_49272	Daxx	Hist4h4	-	B130044J01Rik	Affinity Capture-Western	physical	Hoelper D (2017)	29084956	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+2498038	13163	433759	199054	241423	-	RP23-209C6.7	Daxx	Hdac1	-	HD1|Hdac1-ps|MommeD5|RPD3	Affinity Capture-Western	physical	Hoelper D (2017)	29084956	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+2498039	433759	13163	241423	199054	RP23-209C6.7	-	Hdac1	Daxx	HD1|Hdac1-ps|MommeD5|RPD3	-	Affinity Capture-Western	physical	Hoelper D (2017)	29084956	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+2521641	13163	18854	199054	202265	-	-	Daxx	Pml	-	1200009E24Rik|AI661194|Trim19	Co-localization	physical	Salsman J (2017)	28358373	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+2521642	13163	22589	199054	204603	-	RP23-170G19.5	Daxx	Atrx	-	4833408C14Rik|AI447451|ATR2|DXHXS6677E|HP1-BP38|Hp1bp2|Hp1bp38|MRXS3|RAD54L|Rad54|XH2|Xnp|ZNF-HX	Co-localization	physical	Salsman J (2017)	28358373	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+3323814	22589	13163	204603	199054	RP23-170G19.5	-	Atrx	Daxx	4833408C14Rik|AI447451|ATR2|DXHXS6677E|HP1-BP38|Hp1bp2|Hp1bp38|MRXS3|RAD54L|Rad54|XH2|Xnp|ZNF-HX	-	Affinity Capture-Western	physical	Teng YC (2021)	34162889	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+3323825	546	13163	107028	199054	RP5-875J14.1	-	ATRX	Daxx	ATR2|JMS|MRXHF1|RAD54|RAD54L|SFM1|SHS|XH2|XNP|ZNF-HX	-	Affinity Capture-Western	physical	Teng YC (2021)	34162889	9606	10090	Low Throughput	-	-	-	-	-	BIOGRID
+

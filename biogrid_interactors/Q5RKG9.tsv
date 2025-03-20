@@ -1,0 +1,5 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+957113	9515	300253	114892	256512	-	-	STXBP5L	Eif4b	LLGL4	-	Affinity Capture-MS	physical	Bhatnagar S (2014)	25002582	9606	10116	High Throughput	-	-	-	-	-	BIOGRID
+2690960	84353	300253	249913	256512	-	-	Ctnnb1	Eif4b	Catnb	-	Affinity Capture-MS	physical	Ehyai S (2018)	30361391	10116	10116	High Throughput	-	-	-	-	-	BIOGRID
+3587916	388591	300253	132764	256512	-	-	RNF207	Eif4b	C1orf188	-	Affinity Capture-MS	physical	Yuan L (2023)	35352799	9606	10116	High Throughput	-	-	-	-	-	BIOGRID
+

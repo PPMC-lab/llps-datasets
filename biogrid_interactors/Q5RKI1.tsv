@@ -1,0 +1,5 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+852506	50522	303831	248372	257691	-	-	Ubc	Eif4a2	-	-	Affinity Capture-MS	physical	Na CH (2012)	22871113	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2448802	24392	303831	246562	257691	-	-	Gja1	Eif4a2	Cx43	-	Affinity Capture-MS	physical	Martins-Marques T (2015)	26316108	10116	10116	High Throughput	-	-	-	Identification of Cx43-binding partners using the SWATH-MS method.	-	BIOGRID
+2511974	290364	303831	253181	257691	-	-	Itm2b	Eif4a2	Bri|imBRI2	-	Affinity Capture-MS	physical	Martins F (2018)	29476059	10116	10116	High Throughput	-	-	-	-	-	BIOGRID
+

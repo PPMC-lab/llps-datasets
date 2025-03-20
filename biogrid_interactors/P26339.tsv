@@ -1,0 +1,5 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+2610384	2641	12652	108911	198696	-	-	GCG	Chga	GLP1|GLP2|GRPP	ChrA	Affinity Capture-MS	physical	Asadi F (2019)	30713523	9606	10090	High Throughput	-	-	-	-	-	BIOGRID
+2662476	12653	12652	198697	198696	RP23-77H16.1	-	Chgb	Chga	Scg-1	ChrA	Co-fractionation	physical	Pourhaghighi R (2020)	32325033	10090	10090	High Throughput	0.716	-	-	High confidence interactions had an EPIC Score >= 0.683	-	BIOGRID
+2665410	12652	20254	198696	203090	-	-	Chga	Scg2	ChrA	Chgc|SgII	Co-fractionation	physical	Pourhaghighi R (2020)	32325033	10090	10090	High Throughput	0.731	-	-	High confidence interactions had an EPIC Score >= 0.683	-	BIOGRID
+

@@ -1,0 +1,5 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+610561	499417	287436	270726	252159	-	-	Sumo3	Eif4a1	-	-	Affinity Capture-MS	physical	Yang W (2011)	22082260	10116	10116	High Throughput	-	-	-	-	-	BIOGRID
+2546879	65248	287436	249325	252159	-	-	Prkaa1	Eif4a1	AMPKalpha1	-	Affinity Capture-MS	physical	Moon S (2014)	24625528	10116	10116	High Throughput	-	-	-	-	-	BIOGRID
+2547004	83803	287436	249839	252159	-	-	Prkab1	Eif4a1	-	-	Affinity Capture-MS	physical	Moon S (2014)	24625528	10116	10116	High Throughput	-	-	-	-	-	BIOGRID
+

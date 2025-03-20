@@ -1,0 +1,16 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+248541	2539479	2542148	276042	278624	SPCC584.04	SPAC1834.01	sup35	sup45	erf3	-	Reconstituted Complex	physical	Ito K (1998)	9701287	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+248542	2539479	2542148	276042	278624	SPCC584.04	SPAC1834.01	sup35	sup45	erf3	-	Two-hybrid	physical	Ito K (1998)	9701287	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+248738	2539479	2539371	276042	275937	SPCC584.04	SPCC18B5.06	sup35	dom34	erf3	SPCC18B5.06|erf1|sup45	Reconstituted Complex	physical	Ito K (1998)	9701287	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+248739	2539371	2539479	275937	276042	SPCC18B5.06	SPCC584.04	dom34	sup35	SPCC18B5.06|erf1|sup45	erf3	Two-hybrid	physical	Ito K (1998)	9701287	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+249700	2539479	2539371	276042	275937	SPCC584.04	SPCC18B5.06	sup35	dom34	erf3	SPCC18B5.06|erf1|sup45	Reconstituted Complex	physical	Ebihara K (1999)	10376874	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+249701	2539479	2539371	276042	275937	SPCC584.04	SPCC18B5.06	sup35	dom34	erf3	SPCC18B5.06|erf1|sup45	Two-hybrid	physical	Ebihara K (1999)	10376874	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+882548	2539733	2539479	276285	276042	SPBC16E9.12c	SPCC584.04	pab2	sup35	-	erf3	Affinity Capture-MS	physical	Lemieux C (2009)	19336419	284812	284812	Low Throughput	-	-	-	-	-	POMBASE
+1033583	2543407	2539479	279829	276042	SPAC8F11.07c	SPCC584.04	cdc24	sup35	-	erf3	Synthetic Rescue	genetic	Tanaka H (2004)	15576681	284812	284812	Low Throughput	-	-	heat sensitivity:wild type|vegetative growth:wild type	-	-	BIOGRID
+1437736	2539479	2539479	276042	276042	SPCC584.04	SPCC584.04	sup35	sup35	erf3	erf3	Two-hybrid	physical	Vo TV (2016)	26771498	284812	284812	High Throughput	-	-	-	-	-	BIOGRID
+1526620	2541772	2539479	278266	276042	SPAC22E12.03c	SPCC584.04	hsp3106	sup35	SPAC22E12.03c|spDJ-1	erf3	Affinity Capture-MS	physical	Mathiassen SG (2015)	26152728	284812	284812	High Throughput	-	-	-	-	-	BIOGRID
+2516682	2538734	2539479	275318	276042	SPCC1322.13	SPCC584.04	ade6	sup35	min1	erf3	Synthetic Rescue	genetic	Protacio RU (2015)	25519804	284812	284812	Low Throughput	-	-	-	-	-	POMBASE
+2597823	2541531	2539479	278031	276042	SPAC25A8.01c	SPCC584.04	fft3	sup35	snf2SR	erf3	Affinity Capture-MS	physical	Lee J (2017)	28218250	284812	284812	High Throughput	-	-	-	-	-	BIOGRID
+2884954	2541248	2539479	277762	276042	SPBC8D2.10c	SPCC584.04	rmt3	sup35	-	erf3	Proximity Label-MS	physical	Larochelle M (2019)	31064814	284812	284812	Low Throughput	-	-	-	Proximity-dependent biotinylation assay coupled to mass spectrometry	-	BIOGRID
+2885228	2540398	2539479	276926	276042	SPBC26H8.10	SPCC584.04	dis3	sup35	rrp44	erf3	Proximity Label-MS	physical	Larochelle M (2019)	31064814	284812	284812	Low Throughput	-	-	-	Proximity-dependent biotinylation assay coupled to mass spectrometry	-	BIOGRID
+

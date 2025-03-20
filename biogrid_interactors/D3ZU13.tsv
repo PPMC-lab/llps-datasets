@@ -1,0 +1,3 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+907830	24392	287986	246562	252406	-	-	Gja1	Eif4g1	Cx43	-	Affinity Capture-MS	physical	Chen VC (2012)	23106098	10116	10116	High Throughput	-	-	-	-	-	BIOGRID
+

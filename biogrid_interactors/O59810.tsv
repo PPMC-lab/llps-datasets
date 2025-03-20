@@ -1,0 +1,10 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+680075	2539047	2539425	275620	275990	SPCC1223.06	SPCC550.14	tea1	vgl1	alp8	-	Affinity Capture-MS	physical	Snaith HA (2011)	21652630	284812	284812	High Throughput	-	-	-	-	-	BIOGRID
+1026842	2543254	2539425	279682	275990	SPAC1006.03c	SPCC550.14	red1	vgl1	iss3	-	Affinity Capture-MS	physical	Egan ED (2014)	24713849	284812	284812	High Throughput	7.818608288	-	-	C-terminally 3xFLAG-tagged SPAC1006.03c	-	BIOGRID
+1027291	2540291	2539425	276822	275990	SPBC337.12	SPCC550.14	red5	vgl1	SPBC337.12	-	Affinity Capture-MS	physical	Egan ED (2014)	24713849	284812	284812	High Throughput	7.818608288	-	-	C-terminally 3xFLAG-tagged SPBC337.12	-	BIOGRID
+1519194	14218174	2539425	4254536	275990	SPAC19G12.17	SPCC550.14	erh1	vgl1	new10|iss6	-	Affinity Capture-MS	physical	Sugiyama T (2016)	26942678	284812	284812	Low Throughput	-	-	-	-	-	BIOGRID
+2550808	2908	2539425	109165	275990	-	SPCC550.14	NR3C1	vgl1	GCCR|GCR|GCRST|GR|GRL	-	Affinity Capture-MS	physical	Ptushkina M (2017)	28935859	9606	284812	High Throughput	-	-	-	at 39 degrees	-	BIOGRID
+2597817	2541531	2539425	278031	275990	SPAC25A8.01c	SPCC550.14	fft3	vgl1	snf2SR	-	Affinity Capture-MS	physical	Lee J (2017)	28218250	284812	284812	High Throughput	-	-	-	-	-	BIOGRID
+2661183	2540316	2539425	276846	275990	SPBC27B12.08	SPCC550.14	sip1	vgl1	-	-	Synthetic Rescue	genetic	Li J (2019)	30824696	284812	284812	High Throughput	-	-	-	-	-	POMBASE
+3377043	2543084	2539425	279517	275990	SPAC31G5.19	SPCC550.14	abo1	vgl1	SPAC31G5.19	-	Negative Genetic	genetic	Dong W (2020)	32269268	284812	284812	Low Throughput	-	-	-	-	-	POMBASE
+

@@ -1,0 +1,4 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+736024	29219	494445	247897	268944	-	-	Snca	Srsf2	-	Sfrs2	Affinity Capture-MS	physical	Jin J (2007)	16854843	10116	10116	High Throughput	-	-	-	appendix I.	-	BIOGRID
+2879138	26416	494445	204969	268944	RP24-137E7.1	-	Mapk14	Srsf2	CSBP2|Crk1|Csbp1|Mxi2|PRKM14|PRKM15|p38|p38-alpha|p38MAPK|p38a|p38alpha	Sfrs2	Proximity Label-MS	physical	Dumont AA (2019)	31505169	10090	10116	High Throughput	-	-	-	APEX2	-	BIOGRID
+

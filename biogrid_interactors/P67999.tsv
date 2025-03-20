@@ -1,0 +1,5 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+282237	83840	1460	249866	107843	-	DADB-127H9.2	Rps6kb1	CSNK2B	-	CK2B|CK2N|CSK2B|G5A	Two-hybrid	physical	Panasyuk G (2006)	16895915	10116	9606	Low Throughput	-	-	-	-	-	BIOGRID
+282620	287711	83840	252305	249866	-	-	Coasy	Rps6kb1	-	-	Co-purification	physical	Nemazanyy I (2004)	15589845	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+330250	83840	9978	249866	115301	-	RP11-554C12.1	Rps6kb1	RBX1	-	BA554C12.1|RNF75|ROC1	Two-hybrid	physical	Panasyuk G (2008)	18279656	10116	9606	Low Throughput	-	-	-	-	-	BIOGRID
+

@@ -1,0 +1,4 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+3324189	16491	12808	200878	198800	-	RP24-293E17.1	Kcna3	Cobl	Kca1-3|Kv1.3|Mk-3	-	Affinity Capture-MS	physical	Cidad P (2021)	33230847	10090	10090	High Throughput	-	-	-	Affinity Capture-MS was carried out to identify high confidence protein-protein interactions.	-	BIOGRID
+3474979	76884	12808	218375	198800	RP23-370F7.1	RP24-293E17.1	Cyfip2	Cobl	1500004I01Rik|6430511D02Rik|AA930218|AU022376|Pir121|mKIAA1168	-	Affinity Capture-MS	physical	Lee Y (2020)	32560809	10090	10090	High Throughput	-	-	-	-	-	BIOGRID
+

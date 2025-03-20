@@ -1,0 +1,16 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+544317	3783761	6598	971803	112482	-	-	BYRF1	SMARCB1	-	BAF47|INI1|MRD15|PPP1R144|RDT|RTPS1|SNF5|SNF5L1|SWNTS1|Sfh1p|Snr1|hSNFS	Affinity Capture-Western	physical	Kwiatkowski B (2004)	15141006	10376	9606	Low Throughput	-	-	-	-	-	BIOGRID
+616895	6688	3783761	112566	971803	hCG_25181	-	SPI1	BYRF1	OF|PU.1|SFPI1|SPI-1|SPI-A	-	Affinity Capture-Western	physical	Bheda A (2011)	21504384	9606	10376	Low Throughput	-	-	-	-	-	BIOGRID
+2466903	10771	3783761	115989	971803	RP11-486H9.1	-	ZMYND11	BYRF1	BRAM1|BS69|MRD30	-	Co-crystal Structure	physical	Harter MR (2016)	26845565	9606	10376	Low Throughput	-	-	-	-	-	BIOGRID
+2466905	10771	3783761	115989	971803	RP11-486H9.1	-	ZMYND11	BYRF1	BRAM1|BS69|MRD30	-	Protein-peptide	physical	Harter MR (2016)	26845565	9606	10376	Low Throughput	-	-	-	-	-	BIOGRID
+2466906	10771	3783761	115989	971803	RP11-486H9.1	-	ZMYND11	BYRF1	BRAM1|BS69|MRD30	-	Affinity Capture-Western	physical	Harter MR (2016)	26845565	9606	10376	Low Throughput	-	-	-	-	-	BIOGRID
+2540077	851906	3783761	32364	971803	YDR311W	-	TFB1	BYRF1	TFIIH/NER complex subunit TFB1|L000002284	-	Co-crystal Structure	physical	Chabot PR (2014)	24675874	559292	10376	Low Throughput	-	-	-	-	-	BIOGRID
+2540078	1387	3783761	107777	971803	-	-	CREBBP	BYRF1	CBP|KAT3A|RSTS	-	Co-crystal Structure	physical	Chabot PR (2014)	24675874	9606	10376	Low Throughput	-	-	-	-	-	BIOGRID
+2747836	10771	3783761	115989	971803	RP11-486H9.1	-	ZMYND11	BYRF1	BRAM1|BS69|MRD30	-	Protein-peptide	physical	Ponnusamy R (2019)	31283782	9606	10376	Low Throughput	-	-	-	-	-	BIOGRID
+2747837	10771	3783761	115989	971803	RP11-486H9.1	-	ZMYND11	BYRF1	BRAM1|BS69|MRD30	-	Co-crystal Structure	physical	Ponnusamy R (2019)	31283782	9606	10376	Low Throughput	-	-	-	SAXS	-	BIOGRID
+2747838	10771	3783761	115989	971803	RP11-486H9.1	-	ZMYND11	BYRF1	BRAM1|BS69|MRD30	-	Reconstituted Complex	physical	Ponnusamy R (2019)	31283782	9606	10376	Low Throughput	-	-	-	-	-	BIOGRID
+3500426	3516	3783761	109736	971803	-	-	RBPJ	BYRF1	AOS3|CBF1|IGKJRB|IGKJRB1|KBF2|RBP-J|RBPJK|RBPSUH|SUH|csl	-	Affinity Capture-Western	physical	Peng R (2005)	15767449	9606	10376	Low Throughput	-	-	-	-	-	BIOGRID
+3559771	983	3783761	107420	971803	-	-	CDK1	BYRF1	CDC2|CDC28A|P34CDC2	-	Affinity Capture-Western	physical	Yue W (2004)	15016877	9606	10376	Low Throughput	-	-	-	-	-	BIOGRID
+3559772	983	3783761	107420	971803	-	-	CDK1	BYRF1	CDC2|CDC28A|P34CDC2	-	Biochemical Activity	physical	Yue W (2004)	15016877	9606	10376	Low Throughput	-	Phosphorylation	-	-	-	BIOGRID
+3559773	3783761	6688	971803	112566	-	hCG_25181	BYRF1	SPI1	-	OF|PU.1|SFPI1|SPI-1|SPI-A	Affinity Capture-Western	physical	Yue W (2004)	15016877	10376	9606	Low Throughput	-	-	-	-	-	BIOGRID
+

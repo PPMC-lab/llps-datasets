@@ -1,0 +1,6 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+482091	844406	842256	29624	27481	AT1G80670	AT1G59660	AT1G80670	AT1G59660	F23A5.2|F23A5_2	T30E16.24|T30E16_24	Affinity Capture-MS	physical	Tamura K (2010)	21189294	3702	3702	High Throughput	-	-	-	-	-	BIOGRID
+482821	843870	842256	29089	27481	AT1G75340	AT1G59660	AT1G75340	AT1G59660	F1B16.12|F1B16_12	T30E16.24|T30E16_24	Affinity Capture-MS	physical	Tamura K (2010)	21189294	3702	3702	Low Throughput	-	-	-	-	-	BIOGRID
+887933	831899	842256	17175	27481	AT5G03240	AT1G59660	UBQ3	AT1G59660	F15A17.270|F15A17_270|POLYUBIQUITIN 3 PROTEIN|polyubiquitin 3	T30E16.24|T30E16_24	Affinity Capture-MS	physical	Kim DY (2013)	23667124	3702	3702	High Throughput	-	-	-	-	-	BIOGRID
+1173564	3837	842256	110035	27481	-	AT1G59660	KPNB1	AT1G59660	IMB1|IPO1|IPOB|Impnb|NTF97	T30E16.24|T30E16_24	Reconstituted Complex	physical	Schmidt HB (2015)	25562883	9606	3702	Low Throughput	-	-	-	Figure 5	-	BIOGRID
+

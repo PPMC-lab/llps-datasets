@@ -1,0 +1,4 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+2512173	290364	84556	253181	250003	-	-	Itm2b	Rims1	Bri|imBRI2	RIM1a|Rim1	Affinity Capture-MS	physical	Martins F (2018)	29476059	10116	10116	High Throughput	-	-	-	-	-	BIOGRID
+2754012	287609	84556	252253	250003	-	-	Bzrap1	Rims1	-	RIM1a|Rim1	Reconstituted Complex	physical	Wang Y (2000)	10748113	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+

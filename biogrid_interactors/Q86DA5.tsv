@@ -1,0 +1,35 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+64686	175502	172358	40740	37809	CELE_F13B10.1	CELE_C55B7.4	tir-1	acdh-1	-	-	Two-hybrid	physical	Li S (2004)	14704431	6239	6239	High Throughput	-	-	-	-	-	BIOGRID
+64687	175502	175502	40740	40740	CELE_F13B10.1	CELE_F13B10.1	tir-1	tir-1	-	-	Two-hybrid	physical	Li S (2004)	14704431	6239	6239	High Throughput	-	-	-	-	-	BIOGRID
+64688	175502	175445	40740	40687	CELE_F13B10.1	CELE_F59A2.6	tir-1	F59A2.6	-	-	Two-hybrid	physical	Li S (2004)	14704431	6239	6239	High Throughput	-	-	-	-	-	BIOGRID
+64689	175502	175094	40740	40375	CELE_F13B10.1	CELE_R06A4.4	tir-1	imb-2	-	-	Two-hybrid	physical	Li S (2004)	14704431	6239	6239	High Throughput	-	-	-	-	-	BIOGRID
+64690	175502	176866	40740	42027	CELE_F13B10.1	T07A9.3	tir-1	kgb-1	-	CELE_T07A9.3	Two-hybrid	physical	Li S (2004)	14704431	6239	6239	High Throughput	-	-	-	-	-	BIOGRID
+64691	175502	178612	40740	43681	CELE_F13B10.1	W07B8.5	tir-1	cpr-5	-	CELE_W07B8.5	Two-hybrid	physical	Li S (2004)	14704431	6239	6239	High Throughput	-	-	-	-	-	BIOGRID
+64692	175502	177138	40740	42277	CELE_F13B10.1	Y37E11AR.2	tir-1	siah-1	-	CELE_Y37E11AR.2	Two-hybrid	physical	Li S (2004)	14704431	6239	6239	High Throughput	-	-	-	-	-	BIOGRID
+64693	175502	175867	40740	41088	CELE_F13B10.1	CELE_Y42G9A.1	tir-1	Y42G9A.1	-	-	Two-hybrid	physical	Li S (2004)	14704431	6239	6239	High Throughput	-	-	-	-	-	BIOGRID
+64694	175502	189846	40740	54467	CELE_F13B10.1	Y43B11AR.1	tir-1	Y43B11AR.1	-	CELE_Y43B11AR.1	Two-hybrid	physical	Li S (2004)	14704431	6239	6239	High Throughput	-	-	-	-	-	BIOGRID
+66665	172949	175502	38362	40740	CELE_T22A3.4	CELE_F13B10.1	set-18	tir-1	-	-	Two-hybrid	physical	Li S (2004)	14704431	6239	6239	High Throughput	-	-	-	-	-	BIOGRID
+67147	173440	175502	38817	40740	W07E6.4	CELE_F13B10.1	prp-21	tir-1	CELE_W07E6.4|Ceprp21	-	Two-hybrid	physical	Li S (2004)	14704431	6239	6239	High Throughput	-	-	-	-	-	BIOGRID
+240784	172249	175502	37704	40740	C32F10.2	CELE_F13B10.1	lin-35	tir-1	CELE_C32F10.2	-	Phenotypic Enhancement	genetic	Ceron J (2007)	17417969	6239	6239	High Throughput	-	-	-	-	-	BIOGRID
+466339	181291	175502	46202	40740	CELE_F58A3.2	CELE_F13B10.1	egl-15	tir-1	-	-	Negative Genetic	genetic	Byrne AB (2007)	17897480	6239	6239	High Throughput	1.8571	-	organism development variant	A systematic genetic interaction analysis (SGI) was carried out to detect interactions between 11 query mutants and 858 target genes compromised by RNA interference (RNAi).  Interactions were determined using growth scores that indicated whether the resulting number of progeny from the double mutant was significantly different than that of single mutant controls.|Negative Genetic	-	BIOGRID
+2613302	175502	175502	40740	40740	CELE_F13B10.1	CELE_F13B10.1	tir-1	tir-1	-	-	Two-hybrid	physical	Simonis N (2009)	19123269	6239	6239	High Throughput	-	-	-	-	-	BIOGRID
+2613303	174884	175502	40185	40740	F15A4.11	CELE_F13B10.1	tag-281	tir-1	CELE_F15A4.11	-	Two-hybrid	physical	Simonis N (2009)	19123269	6239	6239	High Throughput	-	-	-	-	-	BIOGRID
+2613304	186133	175502	50883	40740	CELE_F52H2.5	CELE_F13B10.1	F52H2.5	tir-1	-	-	Two-hybrid	physical	Simonis N (2009)	19123269	6239	6239	High Throughput	-	-	-	-	-	BIOGRID
+2613305	181447	175502	46350	40740	K08H2.1	CELE_F13B10.1	skr-21	tir-1	CELE_K08H2.1	-	Two-hybrid	physical	Simonis N (2009)	19123269	6239	6239	High Throughput	-	-	-	-	-	BIOGRID
+2613306	177250	175502	42379	40740	CELE_R11E3.7	CELE_F13B10.1	dpf-7	tir-1	-	-	Two-hybrid	physical	Simonis N (2009)	19123269	6239	6239	High Throughput	-	-	-	-	-	BIOGRID
+2835572	175502	175638	40740	40872	CELE_F13B10.1	CELE_C38D4.6	tir-1	pal-1	-	-	Two-hybrid	physical	Couillault C (2004)	15048112	6239	6239	High Throughput	-	-	-	-	-	WORMBASE
+2835609	175502	178620	40740	43689	CELE_F13B10.1	C39F7.4	tir-1	rab-1	-	CELE_C39F7.4	Two-hybrid	physical	Couillault C (2004)	15048112	6239	6239	High Throughput	-	-	-	-	-	WORMBASE
+2835610	175502	175502	40740	40740	CELE_F13B10.1	CELE_F13B10.1	tir-1	tir-1	-	-	Two-hybrid	physical	Couillault C (2004)	15048112	6239	6239	High Throughput	-	-	-	-	-	WORMBASE
+2835611	175502	174136	40740	39474	CELE_F13B10.1	CELE_F22D3.1	tir-1	ceh-38	-	-	Two-hybrid	physical	Couillault C (2004)	15048112	6239	6239	High Throughput	-	-	-	-	-	WORMBASE
+2835612	175502	174554	40740	39874	CELE_F13B10.1	CELE_R53.4	tir-1	R53.4	-	-	Two-hybrid	physical	Couillault C (2004)	15048112	6239	6239	High Throughput	-	-	-	-	-	WORMBASE
+2835613	175502	174444	40740	39770	CELE_F13B10.1	CELE_T24B8.3	tir-1	T24B8.3	-	-	Two-hybrid	physical	Couillault C (2004)	15048112	6239	6239	High Throughput	-	-	-	-	-	WORMBASE
+2835614	175502	177138	40740	42277	CELE_F13B10.1	Y37E11AR.2	tir-1	siah-1	-	CELE_Y37E11AR.2	Two-hybrid	physical	Couillault C (2004)	15048112	6239	6239	High Throughput	-	-	-	-	-	WORMBASE
+2835615	175502	176913	40740	42073	CELE_F13B10.1	CELE_Y55F3BR.1	tir-1	Y55F3BR.1	-	-	Two-hybrid	physical	Couillault C (2004)	15048112	6239	6239	High Throughput	-	-	-	-	-	WORMBASE
+2835616	175502	178288	40740	43377	CELE_F13B10.1	Y67H2A.5	tir-1	Y67H2A.5	-	CELE_Y67H2A.5	Two-hybrid	physical	Couillault C (2004)	15048112	6239	6239	High Throughput	-	-	-	-	-	WORMBASE
+2836166	175502	175502	40740	40740	CELE_F13B10.1	CELE_F13B10.1	tir-1	tir-1	-	-	Two-hybrid	physical	Chen J (2004)	15020414	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2836170	181539	175502	46438	40740	K04G11.2	CELE_F13B10.1	sel-7	tir-1	CELE_K04G11.2	-	Two-hybrid	physical	Chen J (2004)	15020414	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2837152	175502	177921	40740	43023	CELE_F13B10.1	CELE_K11E8.1	tir-1	unc-43	-	-	Affinity Capture-Western	physical	Chuang CF (2005)	15625192	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+2839185	175502	175502	40740	40740	CELE_F13B10.1	CELE_F13B10.1	tir-1	tir-1	-	-	Reconstituted Complex	physical	Summers DW (2016)	27671644	6239	6239	Low Throughput	-	-	-	-	-	WORMBASE
+3346073	177102	175502	42242	40740	F42A6.9	CELE_F13B10.1	elks-1	tir-1	CELE_F42A6.9	-	Proximity Label-MS	physical	Artan M (2021)	34416233	6239	6239	High Throughput	-	-	-	TurboID	-	BIOGRID
+3703180	177102	175502	42242	40740	F42A6.9	CELE_F13B10.1	elks-1	tir-1	CELE_F42A6.9	-	Proximity Label-MS	physical	Artan M (2022)	35933017	6239	6239	High Throughput	-	-	-	-	-	BIOGRID
+

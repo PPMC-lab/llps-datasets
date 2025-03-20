@@ -1,0 +1,6 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+335856	493576	398174	104657	99509	-	-	hmmr	tpx2-a	RHAMM|xrhamm	dil-2|dil2|hctp4|repp86|tpx2	Affinity Capture-Western	physical	Groen AC (2004)	15498487	8355	8355	Low Throughput	-	-	-	-	-	BIOGRID
+335858	493576	398174	104657	99509	-	-	hmmr	tpx2-a	RHAMM|xrhamm	dil-2|dil2|hctp4|repp86|tpx2	Reconstituted Complex	physical	Groen AC (2004)	15498487	8355	8355	Low Throughput	-	-	-	-	-	BIOGRID
+724230	6790	398174	112666	99509	RP5-1167H4.6	-	AURKA	tpx2-a	AIK|ARK1|AURA|AURORA2|BTAK|PPP1R47|STK15|STK6|STK7	dil-2|dil2|hctp4|repp86|tpx2	Reconstituted Complex	physical	Molli PR (2010)	20603326	9606	8355	Low Throughput	-	-	-	-	-	BIOGRID
+2893135	399257	398174	100582	99509	-	-	dnmt1	tpx2-a	DNA MeTase|xDnmt1	dil-2|dil2|hctp4|repp86|tpx2	Reconstituted Complex	physical	Nishiyama A (2020)	32144273	8355	8355	High Throughput	-	-	-	-	-	BIOGRID
+

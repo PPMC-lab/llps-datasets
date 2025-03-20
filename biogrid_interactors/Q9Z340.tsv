@@ -1,0 +1,7 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+252350	8655	81918	114206	249693	-	-	DYNLL1	Pard3	DLC1|DLC8|DNCL1|DNCLC1|LC8|LC8a|PIN|hdlc1	Par3	Affinity Capture-MS	physical	Navarro-Lerida I (2004)	14760703	9606	10116	Low Throughput	-	-	-	-	-	BIOGRID
+1107552	307594	81918	258759	249693	-	-	Mib1	Pard3	-	Par3	Affinity Capture-MS	physical	Mertz JL (2015)	25931508	10116	10116	High Throughput	-	-	-	-	-	BIOGRID
+2536762	50557	81918	248383	249693	-	-	Pten	Pard3	MMAC1|Mmac|TEP1	Par3	Protein-peptide	physical	Feng W (2008)	18550519	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2635248	81918	641521	249693	566016	-	-	Pard3	Lrrc4	Par3	-	Affinity Capture-Western	physical	Xu G (2015)	25948265	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+2635249	641521	81918	566016	249693	-	-	Lrrc4	Pard3	-	Par3	Affinity Capture-Western	physical	Xu G (2015)	25948265	10116	10116	Low Throughput	-	-	-	-	-	BIOGRID
+

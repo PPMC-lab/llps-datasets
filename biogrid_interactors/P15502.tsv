@@ -1,0 +1,24 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+282038	2006	633	108321	107102	-	-	ELN	BGN	SVAS|WBS|WS	DSPG1|PG-S1|PGI|SLRR1A	Reconstituted Complex	physical	Reinboth B (2002)	11723132	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+282039	2006	1634	108321	108002	-	-	ELN	DCN	SVAS|WBS|WS	CSCD|DSPG2|PG40|PGII|PGS2|SLRR1B	Reconstituted Complex	physical	Reinboth B (2002)	11723132	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+288390	2006	2200	108321	108494	-	-	ELN	FBN1	SVAS|WBS|WS	ACMICD|ECTOL1|FBN|GPHYSD2|MASS|MFS1|OCTD|SGS|SSKS|WMS|WMS2	Reconstituted Complex	physical	Trask TM (2000)	10825173	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+288391	2006	2201	108321	108495	-	-	ELN	FBN2	SVAS|WBS|WS	CCA|DA9|EOMD	Reconstituted Complex	physical	Trask TM (2000)	10825173	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+289010	2006	2192	108321	108486	-	CTA-941F9.7	ELN	FBLN1	SVAS|WBS|WS	FBLN|FIBL1	Reconstituted Complex	physical	Sasaki T (1999)	10544250	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+289011	2006	2199	108321	108493	-	-	ELN	FBLN2	SVAS|WBS|WS	-	Reconstituted Complex	physical	Sasaki T (1999)	10544250	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+289012	2006	22795	108321	116476	-	-	ELN	NID2	SVAS|WBS|WS	NID-2	Reconstituted Complex	physical	Sasaki T (1999)	10544250	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+314245	5657	2006	111638	108321	-	-	PRTN3	ELN	ACPA|AGP7|C-ANCA|CANCA|MBN|MBT|NP-4|NP4|P29|PR-3|PR3	SVAS|WBS|WS	Biochemical Activity	physical	Ying QL (2002)	11867344	9606	9606	Low Throughput	-	Proteolytic Processing	-	-	-	BIOGRID
+314246	3958	2006	110149	108321	-	-	LGALS3	ELN	CBP35|GAL3|GALBP|GALIG|L31|LGALS2|MAC2	SVAS|WBS|WS	Affinity Capture-Western	physical	Ochieng J (1999)	10536372	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+314247	3958	2006	110149	108321	-	-	LGALS3	ELN	CBP35|GAL3|GALBP|GALIG|L31|LGALS2|MAC2	SVAS|WBS|WS	Reconstituted Complex	physical	Ochieng J (1999)	10536372	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+314248	2219	2006	108513	108321	RP11-447M12.1	-	FCN1	ELN	FCNM	SVAS|WBS|WS	Reconstituted Complex	physical	Harumiya S (1996)	8947836	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+721711	2006	1191	108321	107603	-	AAG4	ELN	CLU	SVAS|WBS|WS	APO-J|APOJ|CLI|CLU1|CLU2|KUB1|NA1/NA2|SGP-2|SGP2|SP-40|TRPM-2|TRPM2	Reconstituted Complex	physical	Janig E (2007)	17872975	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+800208	4015	2006	110199	108321	-	-	LOX	ELN	-	SVAS|WBS|WS	Reconstituted Complex	physical	Giampuzzi M (2003)	12686141	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+893548	1160	2006	107580	108321	-	-	CKMT2	ELN	SMTCK	SVAS|WBS|WS	Two-hybrid	physical	Wang J (2011)	21988832	9606	9606	High Throughput	-	-	-	-	-	BIOGRID
+894543	2006	28986	108321	118807	-	-	ELN	MAGEH1	SVAS|WBS|WS	APR-1|APR1|MAGEH	Two-hybrid	physical	Wang J (2011)	21988832	9606	9606	High Throughput	-	-	-	-	-	BIOGRID
+2610781	92140	2006	124913	108321	-	-	MTDH	ELN	3D3|AEG-1|AEG1|LYRIC|LYRIC/3D3	SVAS|WBS|WS	Protein-RNA	physical	Meng X (2012)	22199357	9606	9606	High Throughput	-	-	-	-	-	BIOGRID
+2784676	3329	2006	109561	108321	-	-	HSPD1	ELN	CPN60|GROEL|HLD4|HSP-60|HSP60|HSP65|HuCHA60|SPG13	SVAS|WBS|WS	Proximity Label-MS	physical	Fasci D (2018)	30021884	9606	9606	High Throughput	-	-	-	interaction identified using XL-MS (cross-linking mass spectrometry): TX100-soluble fractions from cells were treated with cross-linker and cross-linked proteins were identified by mass-spectrometry; interaction is undirectional; therefore bait and prey/hit have been assigned arbitrarily; interactions with FDRs (false discovery rates) of 1% or less were reported; this interaction was not detected in parallel experiments using unfractionated cells or TX100-insoluble fractions	-	BIOGRID
+3745590	2006	2006	108321	108321	-	-	ELN	ELN	SVAS|WBS|WS	SVAS|WBS|WS	FRET	physical	Berta B (2024)	39261533	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3745593	2006	43740570	108321	4383845	-	GU280_gp04	ELN	E	SVAS|WBS|WS	env|envelope|SARS-CoV2 E|E protein|emp|SARS-CoV-2 E|VEMP_SARS2|PRO_0000449651	FRET	physical	Berta B (2024)	39261533	9606	2697049	Low Throughput	-	-	-	-	-	BIOGRID
+3745595	5350	2006	111365	108321	RP3-509L4.2	-	PLN	ELN	CMD1P|CMH18|PLB	SVAS|WBS|WS	FRET	physical	Berta B (2024)	39261533	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3745596	401152	2006	134952	108321	-	-	C4orf3	ELN	-	SVAS|WBS|WS	FRET	physical	Berta B (2024)	39261533	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+3745600	488	2006	106978	108321	-	-	ATP2A2	ELN	ATP2B|DAR|DD|SERCA2	SVAS|WBS|WS	FRET	physical	Berta B (2024)	39261533	9606	9606	Low Throughput	-	-	-	-	-	BIOGRID
+

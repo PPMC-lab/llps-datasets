@@ -1,0 +1,4 @@
+#BioGRID Interaction ID	Entrez Gene Interactor A	Entrez Gene Interactor B	BioGRID ID Interactor A	BioGRID ID Interactor B	Systematic Name Interactor A	Systematic Name Interactor B	Official Symbol Interactor A	Official Symbol Interactor B	Synonyms Interactor A	Synonyms Interactor B	Experimental System	Experimental System Type	Author	Pubmed ID	Organism Interactor A	Organism Interactor B	Throughput	Score	Modification	Phenotypes	Qualifications	Tags	Source Database
+3404207	214763	71779	229561	214922	-	-	Mb21d1	March8	E330016A19Rik|cGAS	1300017E09Rik|MARCH-VIII|Mir	Affinity Capture-Western	physical	Yang X (2022)	35503863	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+3716751	214763	214763	229561	229561	-	-	Mb21d1	Mb21d1	E330016A19Rik|cGAS	E330016A19Rik|cGAS	Affinity Capture-Western	physical	Qian G (2023)	37099423	10090	10090	Low Throughput	-	-	-	-	-	BIOGRID
+
