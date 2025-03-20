@@ -1,6 +1,6 @@
 # LLPS Datasets
 
-This file has been created on 05-02-2024 by Carlos Pintado-Grima & and last modified on 14-06-2024
+This file has been created on 05-02-2024 by Carlos Pintado-Grima & and last modified on 20-03-2025
 
 **Access link to the dataset**: [LLPS Datasets](https://llpsdatasets.ppmclab.com/)
 
@@ -22,15 +22,16 @@ Confident protein datasets for liquid-liquid phase separation studies
   - Email: <Oriol.Barcenas@uab.cat>
   - ORCID: [0000-0002-8439-4005](https://orcid.org/0000-0002-8439-4005)
 
+- Eva Arribas-Ruiz
+  - Institution: Institut de Biotecnologia i de Biomedicina, Universitat Autònoma de Barcelona
+  - Email: <eva.arribas00@gmail.com>
+  - ORCID: [0009-0006-3110-0057](https://orcid.org/0009-0006-3110-0057)
+
 - Valentín Iglesias
   - Institution: Institut de Biotecnologia i de Biomedicina, Universitat Autònoma de Barcelona
   - Email: <Valentin.Iglesias@uab.cat>
   - ORCID: [0000-0002-6133-0869](https://orcid.org/0000-0002-6133-0869)
 
-- Eva Arribas-Ruiz
-  - Institution: Institut de Biotecnologia i de Biomedicina, Universitat Autònoma de Barcelona
-  - Email: <eva.arribas00@gmail.com>
-  - ORCID: [0009-0006-3110-0057](https://orcid.org/0009-0006-3110-0057)
 
 - Michał Burdukiewicz
   - Institution: Institut de Biotecnologia i de Biomedicina, Universitat Autònoma de Barcelona and Medical University of Białystok (Poland)
@@ -62,7 +63,7 @@ Liquid-liquid phase separation; client; driver; negative; proteins; prediction; 
 
 ### 5. Publication Date
 
-Not applicable
+Desposited in bioRxiv.
 
 ### 6. Grant information
 
@@ -104,7 +105,7 @@ Not applicable
 
 ### 1. Last modification date
 
-14-06-2024
+20-03-2025
 
 ### 2. Were data derived from another source?
 
@@ -164,6 +165,8 @@ Rational data quality assessment and technical validation on data properties.
 │   └── 'Figure-5 Properties.png'
 ├── properties/
 │   └── calculations_properties_datasets.csv
+├── biogrid_interactors/
+│   └── proteins.tsv
 └── scripts/
     ├── generate_datasets.py
     ├── json_create.py
@@ -190,6 +193,9 @@ Not applicable
 - Directory name: `./figures`
   - Description: Figures generated for the manuscript.
 
+- Directory name: `./biogrid_interactors`
+  - Description: Potential interactors of positive LLPS proteins obtained with BioGRID.
+
 - File name: `./properties/calculations_properties_datasets.csv`
   - Description: property calculation for all sequences.  
 
@@ -203,7 +209,7 @@ The json file collects subsequences of the annotated proteins from the main tsv 
 
 ### 5. If the dataset includes multiple files, specify the directory structure and relationships between the files
 
-Main files in main directory. Python scripts in `./scripts` folder. Figures in `./figures`. Property calculations in `./properties`.
+Main files in main directory. Python scripts in `./scripts` folder. Figures in `./figures`. Property calculations in `./properties`. BioGRID data in `./biogrid_interactors`
 
 ## SPECIFIC INFORMATION FOR TABULAR DATA
 
@@ -214,7 +220,7 @@ Main files in main directory. Python scripts in `./scripts` folder. Figures in `
 
 ### 2. Number of rows and columns
 
-4527 rows, 6 columns
+2876 rows, 6 columns
 
 ### 3. Variables list
 
@@ -254,7 +260,7 @@ Main files in main directory. Python scripts in `./scripts` folder. Figures in `
 
 ### 2. Number of keys
 
-4527
+2876
 
 ### 3. Variables list
 
