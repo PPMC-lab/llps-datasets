@@ -93,7 +93,7 @@ Barcelona, Spain
 MIT.
 
 2. Dataset DOI:
-[10.5281/zenodo.15118996](https://zenodo.org/records/15118997)
+[10.5281/zenodo.15118996](https://doi.org/10.5281/zenodo.15118996)
 
 3. Related publication:
 Accepted in principle.
