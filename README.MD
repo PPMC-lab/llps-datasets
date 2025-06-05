@@ -1,8 +1,8 @@
 # LLPS Datasets
 
-This file has been created on 05-02-2024 by Carlos Pintado-Grima & and last modified on 01-04-2025
+This file has been created on 05-02-2024 by Carlos Pintado-Grima & and last modified on 05-06-2025
 
-**Access link to the dataset**: [LLPS Datasets](https://llpsdatasets.ppmclab.com/)
+**Access link to the online dataset**: [LLPS Datasets](https://llpsdatasets.ppmclab.com/)
 
 ## GENERAL INFORMATION
 
@@ -51,7 +51,7 @@ English
 
 ### 2. Abstract
 
-Confident dataset of client, driver and negative proteins in liquid-liquid phase separation. The datasets collects unambiguous drivers, unambiguous clients and different dataset labels according to the independent source databases used to filter data. Careful data curation is applied to obtain integrated data confidence.
+Confident dataset of client, driver and negative proteins in liquid-liquid phase separation. The datasets collects unambiguous drivers, unambiguous clients, both clients and drivers and potential non-LLPS proteins. Careful data curation is applied to obtain integrated data confidence.
 
 ### 3. Keywords
 
@@ -63,7 +63,7 @@ Liquid-liquid phase separation; client; driver; negative; proteins; prediction; 
 
 ### 5. Publication Date
 
-Desposited in bioRxiv.
+Accepted in principle.
 
 ### 6. Grant information
 
@@ -89,23 +89,23 @@ Barcelona, Spain
 
 ## ACCESS INFORMATION
 
-1. Creative Commons License of the dataset:
-CC-BY SA.
+1. Open source License of the dataset:
+MIT.
 
 2. Dataset DOI:
-NA
+[10.5281/zenodo.15118996](https://zenodo.org/records/15118997)
 
 3. Related publication:
-Submitted
+Accepted in principle.
 
 4. Link to related datasets:
-Not applicable
+See source databases in the next section.
 
 ## VERSIONING AND PROVENANCE
 
 ### 1. Last modification date
 
-20-03-2025
+05-06-2025
 
 ### 2. Were data derived from another source?
 
@@ -156,6 +156,7 @@ Rational data quality assessment and technical validation on data properties.
 ├── datasets.tsv
 ├── sequential_elements.json
 ├── README.MD
+├── LICENSE
 ├── figures/
 │   ├── 'Figure-0 Graphical abstract.png'
 │   ├── 'Figure-1 Datasets.png'
@@ -290,4 +291,4 @@ Empty lists
 
 ## MORE INFORMATION
 
-The datasets here presented are still unbuplished. The work has been submitted to a scientific journal.
+The datasets here presented are still unbuplished. The work has been accepted in principle to a scientific journal.
