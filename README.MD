@@ -1,6 +1,6 @@
-[![DOI](https://img.shields.io/badge/DOI-10.1186/s13059-025-03668-6-.svg)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03668-6)
-[![Zenodo](https://img.shields.io/badge/Zenodo)](https://zenodo.org/records/15599689) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15118996.svg)](https://doi.org/10.5281/zenodo.15118996)
 
+This repository contains the datasets and scripts needed to reproduce the analysis of the manuscript: [Pintado-Grima, C., Bárcenas, O., Arribas-Ruiz, E. et al. Comprehensive protein datasets and benchmarking for liquid–liquid phase separation studies. Genome Biol 26, 198 (2025)](https://doi.org/10.1186/s13059-025-03668-6). Datasets are also publicly available at: [https://llpsdatasets.ppmclab.com/](https://llpsdatasets.ppmclab.com/).
 
 # LLPS Datasets
 
