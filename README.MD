@@ -114,7 +114,7 @@ See source databases in the next section.
 
 ### 2. Were data derived from another source?
 
-Yes, curated data derived from source databases of liquid-liquid phase separation.
+Yes, curated data derived from source databases of liquid-liquid phase separation and related resources.
 
 - [PhaSePro](https://doi.org/10.1093/nar/gkz848)
 - [PhaSepDB](https://doi.org/10.1093/nar/gkac783)
@@ -123,6 +123,7 @@ Yes, curated data derived from source databases of liquid-liquid phase separatio
 - [DrLLPS](https://doi.org/10.1093/nar/gkz1027)
 - [DisProt](https://doi.org/10.1093/nar/gkad928)
 - [PDB](https://doi.org/10.1093/nar/28.1.235)
+- [BioGrid](https://doi.org/10.1002/pro.3978)
 
 ### 3. Additional related data not included in this dataset
 
