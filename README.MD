@@ -1,6 +1,10 @@
+[![DOI](https://img.shields.io/badge/DOI)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03668-6)
+[![Zenodo](https://img.shields.io/badge/Zenodo)](https://zenodo.org/records/15599689) 
+
+
 # LLPS Datasets
 
-This file has been created on 05-02-2024 by Carlos Pintado-Grima & and last modified on 05-06-2025
+This file has been created on 05-02-2024 by Carlos Pintado-Grima & and last modified on 09-07-2025
 
 **Access link to the online dataset**: [LLPS Datasets](https://llpsdatasets.ppmclab.com/)
 
@@ -63,7 +67,7 @@ Liquid-liquid phase separation; client; driver; negative; proteins; prediction; 
 
 ### 5. Publication Date
 
-Accepted in principle.
+July 8th, 2025 (Genome Biology)
 
 ### 6. Grant information
 
@@ -96,7 +100,7 @@ MIT.
 [10.5281/zenodo.15118996](https://doi.org/10.5281/zenodo.15118996)
 
 3. Related publication:
-Accepted in principle.
+[10.1186/s13059-025-03668-6](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03668-6)
 
 4. Link to related datasets:
 See source databases in the next section.
@@ -288,7 +292,3 @@ Empty lists
 ### 5. Special formats or abbreviations used
 
 `NA`
-
-## MORE INFORMATION
-
-The datasets here presented are still unbuplished. The work has been accepted in principle to a scientific journal.
