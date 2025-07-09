@@ -6,9 +6,8 @@ Datasets are also publicly available at: [https://llpsdatasets.ppmclab.com/](htt
 
 # LLPS Datasets
 
-This file has been created on 05-02-2024 by Carlos Pintado-Grima & and last modified on 09-07-2025
+This file has been created on 05-02-2024 by Carlos Pintado-Grima and last modified on 09-07-2025.
 
-**Access link to the online dataset**: [LLPS Datasets](https://llpsdatasets.ppmclab.com/)
 
 ## GENERAL INFORMATION
 
@@ -111,7 +110,7 @@ See source databases in the next section.
 
 ### 1. Last modification date
 
-05-06-2025
+09-07-2025
 
 ### 2. Were data derived from another source?
 
