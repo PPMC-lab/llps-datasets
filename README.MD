@@ -1,4 +1,4 @@
-[![DOI](https://img.shields.io/badge/DOI)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03668-6)
+[![DOI](https://img.shields.io/badge/DOI-10.1186/s13059-025-03668-6-.svg)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03668-6)
 [![Zenodo](https://img.shields.io/badge/Zenodo)](https://zenodo.org/records/15599689) 
 
 
